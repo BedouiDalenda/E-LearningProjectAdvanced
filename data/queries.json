@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "query": "Python programming",
+    "type": "simple"
+  },
+  {
+    "id": 2,
+    "query": "Machine Learning course",
+    "type": "simple"
+  },
+  {
+    "id": 3,
+    "query": "Web development",
+    "type": "simple"
+  },
+  {
+    "id": 4,
+    "query": "Data analysis",
+    "type": "simple"
+  },
+  {
+    "id": 5,
+    "query": "Introduction to AI",
+    "type": "simple"
+  },
+  {
+    "id": 6,
+    "query": "Advanced AI courses with Python",
+    "type": "complex"
+  },
+  {
+    "id": 7,
+    "query": "Beginner data science courses",
+    "type": "complex"
+  },
+  {
+    "id": 8,
+    "query": "Machine learning courses for intermediate level",
+    "type": "complex"
+  },
+  {
+    "id": 9,
+    "query": "Courses related to web development and databases",
+    "type": "complex"
+  },
+  {
+    "id": 10,
+    "query": "Advanced programming with high rating",
+    "type": "complex"
+  },
+  {
+    "id": 11,
+    "query": "Deep learning courses requiring Python",
+    "type": "complex"
+  },
+  {
+    "id": 12,
+    "query": "DevOps courses for cloud computing",
+    "type": "complex"
+  },
+  {
+    "id": 13,
+    "query": "AI courses",
+    "type": "ambiguous"
+  },
+  {
+    "id": 14,
+    "query": "Programming",
+    "type": "ambiguous"
+  },
+  {
+    "id": 15,
+    "query": "Data",
+    "type": "ambiguous"
+  },
+  {
+    "id": 16,
+    "query": "Advanced courses",
+    "type": "ambiguous"
+  },
+  {
+    "id": 17,
+    "query": "Practical learning",
+    "type": "ambiguous"
+  },
+  {
+    "id": 18,
+    "query": "Courses after learning Python",
+    "type": "relational"
+  },
+  {
+    "id": 19,
+    "query": "Similar to Machine Learning",
+    "type": "relational"
+  },
+  {
+    "id": 20,
+    "query": "Prerequisites for Deep Learning",
+    "type": "relational"
+  }
+]

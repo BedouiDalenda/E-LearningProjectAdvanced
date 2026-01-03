@@ -1,0 +1,1607 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:ontology="http://www.elearning-platform.org/ontology#"
+   xmlns:owl="http://www.w3.org/2002/07/owl#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="http://www.elearning-platform.org/ontology#Course_87">
+    <rdf:type rdf:resource="http://www.elearning-platform.org/ontology#Course"/>
+    <ontology:hasTitle>Advanced to Backend - Advanced</ontology:hasTitle>
+    <ontology:hasDescription>Learn Backend in Web Dev. Suitable for Advanced level. Master core concepts and practical applications.</ontology:hasDescription>
+    <ontology:hasDuration rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">27</ontology:hasDuration>
+    <ontology:hasDifficulty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</ontology:hasDifficulty>
+    <ontology:hasRating rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.7</ontology:hasRating>
+    <ontology:hasPrice rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">187</ontology:hasPrice>
+    <ontology:suitableForLevel rdf:resource="http://www.elearning-platform.org/ontology#Advanced_Level"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.elearning-platform.org/ontology#Course_69">
+    <rdf:type rdf:resource="http://www.elearning-platform.org/ontology#Course"/>
+    <ontology:hasTitle>Introduction to Backend - Intermediate</ontology:hasTitle>
+    <ontology:hasDescription>Learn Backend in Web Dev. Suitable for Intermediate level. Master core concepts and practical applications.</ontology:hasDescription>
+    <ontology:hasDuration rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">89</ontology:hasDuration>
+    <ontology:hasDifficulty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</ontology:hasDifficulty>
+    <ontology:hasRating rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.9</ontology:hasRating>
+    <ontology:hasPrice rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">169</ontology:hasPrice>
+    <ontology:suitableForLevel rdf:resource="http://www.elearning-platform.org/ontology#Intermediate_Level"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.elearning-platform.org/ontology#Course_37">
+    <rdf:type rdf:resource="http://www.elearning-platform.org/ontology#Course"/>
+    <ontology:hasTitle>Introduction to Computer Vision - Advanced</ontology:hasTitle>
+    <ontology:hasDescription>Learn Computer Vision in AI/ML. Suitable for Advanced level. Master core concepts and practical applications.</ontology:hasDescription>
+    <ontology:hasDuration rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">57</ontology:hasDuration>
+    <ontology:hasDifficulty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</ontology:hasDifficulty>
+    <ontology:hasRating rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.7</ontology:hasRating>
+    <ontology:hasPrice rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">137</ontology:hasPrice>
+    <ontology:suitableForLevel rdf:resource="http://www.elearning-platform.org/ontology#Advanced_Level"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.elearning-platform.org/ontology#Course_90">
+    <rdf:type rdf:resource="http://www.elearning-platform.org/ontology#Course"/>
+    <ontology:hasTitle>Practical to Full Stack - Advanced</ontology:hasTitle>
+    <ontology:hasDescription>Learn Full Stack in Web Dev. Suitable for Advanced level. Master core concepts and practical applications.</ontology:hasDescription>
+    <ontology:hasDuration rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">30</ontology:hasDuration>
+    <ontology:hasDifficulty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</ontology:hasDifficulty>
+    <ontology:hasRating rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.0</ontology:hasRating>
+    <ontology:hasPrice rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">190</ontology:hasPrice>
+    <ontology:suitableForLevel rdf:resource="http://www.elearning-platform.org/ontology#Advanced_Level"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.elearning-platform.org/ontology#Course_18">
+    <rdf:type rdf:resource="http://www.elearning-platform.org/ontology#Course"/>
+    <ontology:hasTitle>Practical to Neural Networks - Intermediate</ontology:hasTitle>
+    <ontology:hasDescription>Learn Neural Networks in AI/ML. Suitable for Intermediate level. Master core concepts and practical applications.</ontology:hasDescription>
+    <ontology:hasDuration rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">38</ontology:hasDuration>
+    <ontology:hasDifficulty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</ontology:hasDifficulty>
+    <ontology:hasRating rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.8</ontology:hasRating>
+    <ontology:hasPrice rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">118</ontology:hasPrice>
+    <ontology:suitableForLevel rdf:resource="http://www.elearning-platform.org/ontology#Intermediate_Level"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.elearning-platform.org/ontology#Course_109">
+    <rdf:type rdf:resource="http://www.elearning-platform.org/ontology#Course"/>
+    <ontology:hasTitle>Introduction to Analytics - Beginner</ontology:hasTitle>
+    <ontology:hasDescription>Learn Analytics in Data Science. Suitable for Beginner level. Master core concepts and practical applications.</ontology:hasDescription>
+    <ontology:hasDuration rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">49</ontology:hasDuration>
+    <ontology:hasDifficulty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ontology:hasDifficulty>
+    <ontology:hasRating rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.9</ontology:hasRating>
+    <ontology:hasPrice rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">209</ontology:hasPrice>
+    <ontology:suitableForLevel rdf:resource="http://www.elearning-platform.org/ontology#Beginner_Level"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.elearning-platform.org/ontology#Course_99">
+    <rdf:type rdf:resource="http://www.elearning-platform.org/ontology#Course"/>
+    <ontology:hasTitle>Advanced to Data Visualization - Beginner</ontology:hasTitle>
+    <ontology:hasDescription>Learn Data Visualization in Data Science. Suitable for Beginner level. Master core concepts and practical applications.</ontology:hasDescription>
+    <ontology:hasDuration rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">39</ontology:hasDuration>
+    <ontology:hasDifficulty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ontology:hasDifficulty>
+    <ontology:hasRating rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.9</ontology:hasRating>
+    <ontology:hasPrice rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">199</ontology:hasPrice>
+    <ontology:suitableForLevel rdf:resource="http://www.elearning-platform.org/ontology#Beginner_Level"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.elearning-platform.org/ontology#Course_43">
+    <rdf:type rdf:resource="http://www.elearning-platform.org/ontology#Course"/>
+    <ontology:hasTitle>Advanced to NLP - Advanced</ontology:hasTitle>
+    <ontology:hasDescription>Learn NLP in AI/ML. Suitable for Advanced level. Master core concepts and practical applications.</ontology:hasDescription>
+    <ontology:hasDuration rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">63</ontology:hasDuration>
+    <ontology:hasDifficulty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</ontology:hasDifficulty>
+    <ontology:hasRating rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.3</ontology:hasRating>
+    <ontology:hasPrice rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">143</ontology:hasPrice>
+    <ontology:suitableForLevel rdf:resource="http://www.elearning-platform.org/ontology#Advanced_Level"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.elearning-platform.org/ontology#Course_83">
+    <rdf:type rdf:resource="http://www.elearning-platform.org/ontology#Course"/>
+    <ontology:hasTitle>Advanced to Frontend - Advanced</ontology:hasTitle>
+    <ontology:hasDescription>Learn Frontend in Web Dev. Suitable for Advanced level. Master core concepts and practical applications.</ontology:hasDescription>
+    <ontology:hasDuration rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">23</ontology:hasDuration>
+    <ontology:hasDifficulty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</ontology:hasDifficulty>
+    <ontology:hasRating rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.3</ontology:hasRating>
+    <ontology:hasPrice rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">183</ontology:hasPrice>
+    <ontology:suitableForLevel rdf:resource="http://www.elearning-platform.org/ontology#Advanced_Level"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.elearning-platform.org/ontology#Course_14">
+    <rdf:type rdf:resource="http://www.elearning-platform.org/ontology#Course"/>
+    <ontology:hasTitle>Practical to Reinforcement Learning - Beginner</ontology:hasTitle>
+    <ontology:hasDescription>Learn Reinforcement Learning in AI/ML. Suitable for Beginner level. Master core concepts and practical applications.</ontology:hasDescription>
+    <ontology:hasDuration rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">34</ontology:hasDuration>
+    <ontology:hasDifficulty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ontology:hasDifficulty>
+    <ontology:hasRating rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.4</ontology:hasRating>
+    <ontology:hasPrice rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">114</ontology:hasPrice>
+    <ontology:suitableForLevel rdf:resource="http://www.elearning-platform.org/ontology#Beginner_Level"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.elearning-platform.org/ontology#hasSkill">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+    <rdfs:domain rdf:resource="http://www.elearning-platform.org/ontology#Student"/>
+    <rdfs:range rdf:resource="http://www.elearning-platform.org/ontology#Skill"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N6c78e85c651c468395fd6d584aa2e86c">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Restriction"/>
+    <owl:onProperty rdf:resource="http://www.elearning-platform.org/ontology#requiresSkill"/>
+    <owl:minQualifiedCardinality rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">3</owl:minQualifiedCardinality>
+    <owl:onClass rdf:resource="http://www.elearning-platform.org/ontology#Skill"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.elearning-platform.org/ontology#Beginner">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:subClassOf rdf:resource="http://www.elearning-platform.org/ontology#Level"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.elearning-platform.org/ontology#Course_52">
+    <rdf:type rdf:resource="http://www.elearning-platform.org/ontology#Course"/>
+    <ontology:hasTitle>Complete Guide to Frontend - Beginner</ontology:hasTitle>
+    <ontology:hasDescription>Learn Frontend in Web Dev. Suitable for Beginner level. Master core concepts and practical applications.</ontology:hasDescription>
+    <ontology:hasDuration rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">72</ontology:hasDuration>
+    <ontology:hasDifficulty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ontology:hasDifficulty>
+    <ontology:hasRating rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.2</ontology:hasRating>
+    <ontology:hasPrice rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">152</ontology:hasPrice>
+    <ontology:suitableForLevel rdf:resource="http://www.elearning-platform.org/ontology#Beginner_Level"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.elearning-platform.org/ontology#Course_106">
+    <rdf:type rdf:resource="http://www.elearning-platform.org/ontology#Course"/>
+    <ontology:hasTitle>Practical to Data Mining - Beginner</ontology:hasTitle>
+    <ontology:hasDescription>Learn Data Mining in Data Science. Suitable for Beginner level. Master core concepts and practical applications.</ontology:hasDescription>
+    <ontology:hasDuration rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">46</ontology:hasDuration>
+    <ontology:hasDifficulty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ontology:hasDifficulty>
+    <ontology:hasRating rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.6</ontology:hasRating>
+    <ontology:hasPrice rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">206</ontology:hasPrice>
+    <ontology:suitableForLevel rdf:resource="http://www.elearning-platform.org/ontology#Beginner_Level"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.elearning-platform.org/ontology#Course_63">
+    <rdf:type rdf:resource="http://www.elearning-platform.org/ontology#Course"/>
+    <ontology:hasTitle>Advanced to Web Security - Beginner</ontology:hasTitle>
+    <ontology:hasDescription>Learn Web Security in Web Dev. Suitable for Beginner level. Master core concepts and practical applications.</ontology:hasDescription>
+    <ontology:hasDuration rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">83</ontology:hasDuration>
+    <ontology:hasDifficulty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ontology:hasDifficulty>
+    <ontology:hasRating rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.3</ontology:hasRating>
+    <ontology:hasPrice rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">163</ontology:hasPrice>
+    <ontology:suitableForLevel rdf:resource="http://www.elearning-platform.org/ontology#Beginner_Level"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.elearning-platform.org/ontology#Advanced">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:subClassOf rdf:resource="http://www.elearning-platform.org/ontology#Level"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.elearning-platform.org/ontology#Course_17">
+    <rdf:type rdf:resource="http://www.elearning-platform.org/ontology#Course"/>
+    <ontology:hasTitle>Introduction to Neural Networks - Intermediate</ontology:hasTitle>
+    <ontology:hasDescription>Learn Neural Networks in AI/ML. Suitable for Intermediate level. Master core concepts and practical applications.</ontology:hasDescription>
+    <ontology:hasDuration rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">37</ontology:hasDuration>
+    <ontology:hasDifficulty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</ontology:hasDifficulty>
+    <ontology:hasRating rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.7</ontology:hasRating>
+    <ontology:hasPrice rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">117</ontology:hasPrice>
+    <ontology:suitableForLevel rdf:resource="http://www.elearning-platform.org/ontology#Intermediate_Level"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.elearning-platform.org/ontology#Course_48">
+    <rdf:type rdf:resource="http://www.elearning-platform.org/ontology#Course"/>
+    <ontology:hasTitle>Complete Guide to Reinforcement Learning - Advanced</ontology:hasTitle>
+    <ontology:hasDescription>Learn Reinforcement Learning in AI/ML. Suitable for Advanced level. Master core concepts and practical applications.</ontology:hasDescription>
+    <ontology:hasDuration rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">68</ontology:hasDuration>
+    <ontology:hasDifficulty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</ontology:hasDifficulty>
+    <ontology:hasRating rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.8</ontology:hasRating>
+    <ontology:hasPrice rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">148</ontology:hasPrice>
+    <ontology:suitableForLevel rdf:resource="http://www.elearning-platform.org/ontology#Advanced_Level"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.elearning-platform.org/ontology#AdvancedCourse">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <owl:equivalentClass rdf:nodeID="N6f3522c7172b48f6b3e2187972d99009"/>
+    <rdfs:subClassOf rdf:resource="http://www.elearning-platform.org/ontology#Course"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.elearning-platform.org/ontology#DataScienceSkill">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:subClassOf rdf:resource="http://www.elearning-platform.org/ontology#TechnicalSkill"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.elearning-platform.org/ontology#Course_35">
+    <rdf:type rdf:resource="http://www.elearning-platform.org/ontology#Course"/>
+    <ontology:hasTitle>Advanced to Neural Networks - Advanced</ontology:hasTitle>
+    <ontology:hasDescription>Learn Neural Networks in AI/ML. Suitable for Advanced level. Master core concepts and practical applications.</ontology:hasDescription>
+    <ontology:hasDuration rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">55</ontology:hasDuration>
+    <ontology:hasDifficulty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</ontology:hasDifficulty>
+    <ontology:hasRating rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.5</ontology:hasRating>
+    <ontology:hasPrice rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">135</ontology:hasPrice>
+    <ontology:suitableForLevel rdf:resource="http://www.elearning-platform.org/ontology#Advanced_Level"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.elearning-platform.org/ontology#Course_29">
+    <rdf:type rdf:resource="http://www.elearning-platform.org/ontology#Course"/>
+    <ontology:hasTitle>Introduction to Reinforcement Learning - Intermediate</ontology:hasTitle>
+    <ontology:hasDescription>Learn Reinforcement Learning in AI/ML. Suitable for Intermediate level. Master core concepts and practical applications.</ontology:hasDescription>
+    <ontology:hasDuration rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">49</ontology:hasDuration>
+    <ontology:hasDifficulty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</ontology:hasDifficulty>
+    <ontology:hasRating rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.9</ontology:hasRating>
+    <ontology:hasPrice rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">129</ontology:hasPrice>
+    <ontology:suitableForLevel rdf:resource="http://www.elearning-platform.org/ontology#Intermediate_Level"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.elearning-platform.org/ontology#Course_1">
+    <rdf:type rdf:resource="http://www.elearning-platform.org/ontology#Course"/>
+    <ontology:hasTitle>Introduction to Neural Networks - Beginner</ontology:hasTitle>
+    <ontology:hasDescription>Learn Neural Networks in AI/ML. Suitable for Beginner level. Master core concepts and practical applications.</ontology:hasDescription>
+    <ontology:hasDuration rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">21</ontology:hasDuration>
+    <ontology:hasDifficulty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ontology:hasDifficulty>
+    <ontology:hasRating rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.1</ontology:hasRating>
+    <ontology:hasPrice rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">101</ontology:hasPrice>
+    <ontology:suitableForLevel rdf:resource="http://www.elearning-platform.org/ontology#Beginner_Level"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.elearning-platform.org/ontology#Course_60">
+    <rdf:type rdf:resource="http://www.elearning-platform.org/ontology#Course"/>
+    <ontology:hasTitle>Complete Guide to Full Stack - Beginner</ontology:hasTitle>
+    <ontology:hasDescription>Learn Full Stack in Web Dev. Suitable for Beginner level. Master core concepts and practical applications.</ontology:hasDescription>
+    <ontology:hasDuration rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">80</ontology:hasDuration>
+    <ontology:hasDifficulty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ontology:hasDifficulty>
+    <ontology:hasRating rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.0</ontology:hasRating>
+    <ontology:hasPrice rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">160</ontology:hasPrice>
+    <ontology:suitableForLevel rdf:resource="http://www.elearning-platform.org/ontology#Beginner_Level"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.elearning-platform.org/ontology#Course_82">
+    <rdf:type rdf:resource="http://www.elearning-platform.org/ontology#Course"/>
+    <ontology:hasTitle>Practical to Frontend - Advanced</ontology:hasTitle>
+    <ontology:hasDescription>Learn Frontend in Web Dev. Suitable for Advanced level. Master core concepts and practical applications.</ontology:hasDescription>
+    <ontology:hasDuration rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">22</ontology:hasDuration>
+    <ontology:hasDifficulty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</ontology:hasDifficulty>
+    <ontology:hasRating rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.2</ontology:hasRating>
+    <ontology:hasPrice rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">182</ontology:hasPrice>
+    <ontology:suitableForLevel rdf:resource="http://www.elearning-platform.org/ontology#Advanced_Level"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.elearning-platform.org/ontology#Course_23">
+    <rdf:type rdf:resource="http://www.elearning-platform.org/ontology#Course"/>
+    <ontology:hasTitle>Advanced to Computer Vision - Intermediate</ontology:hasTitle>
+    <ontology:hasDescription>Learn Computer Vision in AI/ML. Suitable for Intermediate level. Master core concepts and practical applications.</ontology:hasDescription>
+    <ontology:hasDuration rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">43</ontology:hasDuration>
+    <ontology:hasDifficulty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</ontology:hasDifficulty>
+    <ontology:hasRating rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.3</ontology:hasRating>
+    <ontology:hasPrice rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">123</ontology:hasPrice>
+    <ontology:suitableForLevel rdf:resource="http://www.elearning-platform.org/ontology#Intermediate_Level"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.elearning-platform.org/ontology#Course_33">
+    <rdf:type rdf:resource="http://www.elearning-platform.org/ontology#Course"/>
+    <ontology:hasTitle>Introduction to Neural Networks - Advanced</ontology:hasTitle>
+    <ontology:hasDescription>Learn Neural Networks in AI/ML. Suitable for Advanced level. Master core concepts and practical applications.</ontology:hasDescription>
+    <ontology:hasDuration rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">53</ontology:hasDuration>
+    <ontology:hasDifficulty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</ontology:hasDifficulty>
+    <ontology:hasRating rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.3</ontology:hasRating>
+    <ontology:hasPrice rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">133</ontology:hasPrice>
+    <ontology:suitableForLevel rdf:resource="http://www.elearning-platform.org/ontology#Advanced_Level"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.elearning-platform.org/ontology#Course_49">
+    <rdf:type rdf:resource="http://www.elearning-platform.org/ontology#Course"/>
+    <ontology:hasTitle>Introduction to Frontend - Beginner</ontology:hasTitle>
+    <ontology:hasDescription>Learn Frontend in Web Dev. Suitable for Beginner level. Master core concepts and practical applications.</ontology:hasDescription>
+    <ontology:hasDuration rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">69</ontology:hasDuration>
+    <ontology:hasDifficulty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ontology:hasDifficulty>
+    <ontology:hasRating rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.9</ontology:hasRating>
+    <ontology:hasPrice rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">149</ontology:hasPrice>
+    <ontology:suitableForLevel rdf:resource="http://www.elearning-platform.org/ontology#Beginner_Level"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N40d5bb7849ae4483b78e9aa994e71864">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Restriction"/>
+    <owl:onProperty rdf:resource="http://www.elearning-platform.org/ontology#suitableForLevel"/>
+    <owl:someValuesFrom rdf:resource="http://www.elearning-platform.org/ontology#Intermediate"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N8a042f415157440999068127b38c5b40">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Restriction"/>
+    <owl:onProperty rdf:resource="http://www.elearning-platform.org/ontology#requiresSkill"/>
+    <owl:maxQualifiedCardinality rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">1</owl:maxQualifiedCardinality>
+    <owl:onClass rdf:resource="http://www.elearning-platform.org/ontology#Skill"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.elearning-platform.org/ontology#Course_27">
+    <rdf:type rdf:resource="http://www.elearning-platform.org/ontology#Course"/>
+    <ontology:hasTitle>Advanced to NLP - Intermediate</ontology:hasTitle>
+    <ontology:hasDescription>Learn NLP in AI/ML. Suitable for Intermediate level. Master core concepts and practical applications.</ontology:hasDescription>
+    <ontology:hasDuration rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">47</ontology:hasDuration>
+    <ontology:hasDifficulty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</ontology:hasDifficulty>
+    <ontology:hasRating rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.7</ontology:hasRating>
+    <ontology:hasPrice rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">127</ontology:hasPrice>
+    <ontology:suitableForLevel rdf:resource="http://www.elearning-platform.org/ontology#Intermediate_Level"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.elearning-platform.org/ontology#Advanced_Deep_Learning">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+    <rdf:type rdf:resource="http://www.elearning-platform.org/ontology#AdvancedCourse"/>
+    <ontology:hasPrerequisite rdf:resource="http://www.elearning-platform.org/ontology#ML_Without_Heavy_Math"/>
+    <ontology:requiresSkill rdf:resource="http://www.elearning-platform.org/ontology#Machine_Learning"/>
+    <ontology:requiresSkill rdf:resource="http://www.elearning-platform.org/ontology#Python_Programming"/>
+    <ontology:suitableForLevel rdf:resource="http://www.elearning-platform.org/ontology#Advanced_Level"/>
+    <ontology:teachesSkill rdf:resource="http://www.elearning-platform.org/ontology#Deep_Learning"/>
+    <ontology:hasDuration rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">80</ontology:hasDuration>
+    <ontology:hasTitle>Practical Deep Learning:</ontology:hasTitle>
+    <ontology:requiresMathLevel rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">5</ontology:requiresMathLevel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.elearning-platform.org/ontology#Course_96">
+    <rdf:type rdf:resource="http://www.elearning-platform.org/ontology#Course"/>
+    <ontology:hasTitle>Complete Guide to Web Security - Advanced</ontology:hasTitle>
+    <ontology:hasDescription>Learn Web Security in Web Dev. Suitable for Advanced level. Master core concepts and practical applications.</ontology:hasDescription>
+    <ontology:hasDuration rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">36</ontology:hasDuration>
+    <ontology:hasDifficulty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</ontology:hasDifficulty>
+    <ontology:hasRating rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.6</ontology:hasRating>
+    <ontology:hasPrice rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">196</ontology:hasPrice>
+    <ontology:suitableForLevel rdf:resource="http://www.elearning-platform.org/ontology#Advanced_Level"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.elearning-platform.org/ontology#Course_92">
+    <rdf:type rdf:resource="http://www.elearning-platform.org/ontology#Course"/>
+    <ontology:hasTitle>Complete Guide to Full Stack - Advanced</ontology:hasTitle>
+    <ontology:hasDescription>Learn Full Stack in Web Dev. Suitable for Advanced level. Master core concepts and practical applications.</ontology:hasDescription>
+    <ontology:hasDuration rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">32</ontology:hasDuration>
+    <ontology:hasDifficulty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</ontology:hasDifficulty>
+    <ontology:hasRating rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.2</ontology:hasRating>
+    <ontology:hasPrice rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">192</ontology:hasPrice>
+    <ontology:suitableForLevel rdf:resource="http://www.elearning-platform.org/ontology#Advanced_Level"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.elearning-platform.org/ontology#Course_55">
+    <rdf:type rdf:resource="http://www.elearning-platform.org/ontology#Course"/>
+    <ontology:hasTitle>Advanced to Backend - Beginner</ontology:hasTitle>
+    <ontology:hasDescription>Learn Backend in Web Dev. Suitable for Beginner level. Master core concepts and practical applications.</ontology:hasDescription>
+    <ontology:hasDuration rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">75</ontology:hasDuration>
+    <ontology:hasDifficulty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ontology:hasDifficulty>
+    <ontology:hasRating rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.5</ontology:hasRating>
+    <ontology:hasPrice rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">155</ontology:hasPrice>
+    <ontology:suitableForLevel rdf:resource="http://www.elearning-platform.org/ontology#Beginner_Level"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.elearning-platform.org/ontology#Course_15">
+    <rdf:type rdf:resource="http://www.elearning-platform.org/ontology#Course"/>
+    <ontology:hasTitle>Advanced to Reinforcement Learning - Beginner</ontology:hasTitle>
+    <ontology:hasDescription>Learn Reinforcement Learning in AI/ML. Suitable for Beginner level. Master core concepts and practical applications.</ontology:hasDescription>
+    <ontology:hasDuration rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">35</ontology:hasDuration>
+    <ontology:hasDifficulty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ontology:hasDifficulty>
+    <ontology:hasRating rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.5</ontology:hasRating>
+    <ontology:hasPrice rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">115</ontology:hasPrice>
+    <ontology:suitableForLevel rdf:resource="http://www.elearning-platform.org/ontology#Beginner_Level"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N0122ef345cce4118b9cd60654f34ef19">
+    <rdf:first rdf:nodeID="N09870b31244240bdb4f7dfcd9d88319c"/>
+    <rdf:rest rdf:nodeID="Nd07f8bef667d4d70bb2141e8da1e231d"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N5fb6562b4d2b40739da367d9e1bbd86a">
+    <rdf:first rdf:resource="http://www.elearning-platform.org/ontology#Course"/>
+    <rdf:rest rdf:nodeID="N0122ef345cce4118b9cd60654f34ef19"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.elearning-platform.org/ontology#Course_103">
+    <rdf:type rdf:resource="http://www.elearning-platform.org/ontology#Course"/>
+    <ontology:hasTitle>Advanced to Big Data - Beginner</ontology:hasTitle>
+    <ontology:hasDescription>Learn Big Data in Data Science. Suitable for Beginner level. Master core concepts and practical applications.</ontology:hasDescription>
+    <ontology:hasDuration rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">43</ontology:hasDuration>
+    <ontology:hasDifficulty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ontology:hasDifficulty>
+    <ontology:hasRating rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.3</ontology:hasRating>
+    <ontology:hasPrice rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">203</ontology:hasPrice>
+    <ontology:suitableForLevel rdf:resource="http://www.elearning-platform.org/ontology#Beginner_Level"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.elearning-platform.org/ontology#Course_19">
+    <rdf:type rdf:resource="http://www.elearning-platform.org/ontology#Course"/>
+    <ontology:hasTitle>Advanced to Neural Networks - Intermediate</ontology:hasTitle>
+    <ontology:hasDescription>Learn Neural Networks in AI/ML. Suitable for Intermediate level. Master core concepts and practical applications.</ontology:hasDescription>
+    <ontology:hasDuration rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">39</ontology:hasDuration>
+    <ontology:hasDifficulty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</ontology:hasDifficulty>
+    <ontology:hasRating rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.9</ontology:hasRating>
+    <ontology:hasPrice rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">119</ontology:hasPrice>
+    <ontology:suitableForLevel rdf:resource="http://www.elearning-platform.org/ontology#Intermediate_Level"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.elearning-platform.org/ontology#Course_104">
+    <rdf:type rdf:resource="http://www.elearning-platform.org/ontology#Course"/>
+    <ontology:hasTitle>Complete Guide to Big Data - Beginner</ontology:hasTitle>
+    <ontology:hasDescription>Learn Big Data in Data Science. Suitable for Beginner level. Master core concepts and practical applications.</ontology:hasDescription>
+    <ontology:hasDuration rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">44</ontology:hasDuration>
+    <ontology:hasDifficulty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ontology:hasDifficulty>
+    <ontology:hasRating rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.4</ontology:hasRating>
+    <ontology:hasPrice rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">204</ontology:hasPrice>
+    <ontology:suitableForLevel rdf:resource="http://www.elearning-platform.org/ontology#Beginner_Level"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.elearning-platform.org/ontology#Course_102">
+    <rdf:type rdf:resource="http://www.elearning-platform.org/ontology#Course"/>
+    <ontology:hasTitle>Practical to Big Data - Beginner</ontology:hasTitle>
+    <ontology:hasDescription>Learn Big Data in Data Science. Suitable for Beginner level. Master core concepts and practical applications.</ontology:hasDescription>
+    <ontology:hasDuration rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">42</ontology:hasDuration>
+    <ontology:hasDifficulty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ontology:hasDifficulty>
+    <ontology:hasRating rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.2</ontology:hasRating>
+    <ontology:hasPrice rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">202</ontology:hasPrice>
+    <ontology:suitableForLevel rdf:resource="http://www.elearning-platform.org/ontology#Beginner_Level"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.elearning-platform.org/ontology#Course_46">
+    <rdf:type rdf:resource="http://www.elearning-platform.org/ontology#Course"/>
+    <ontology:hasTitle>Practical to Reinforcement Learning - Advanced</ontology:hasTitle>
+    <ontology:hasDescription>Learn Reinforcement Learning in AI/ML. Suitable for Advanced level. Master core concepts and practical applications.</ontology:hasDescription>
+    <ontology:hasDuration rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">66</ontology:hasDuration>
+    <ontology:hasDifficulty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</ontology:hasDifficulty>
+    <ontology:hasRating rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.6</ontology:hasRating>
+    <ontology:hasPrice rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">146</ontology:hasPrice>
+    <ontology:suitableForLevel rdf:resource="http://www.elearning-platform.org/ontology#Advanced_Level"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.elearning-platform.org/ontology#Course_47">
+    <rdf:type rdf:resource="http://www.elearning-platform.org/ontology#Course"/>
+    <ontology:hasTitle>Advanced to Reinforcement Learning - Advanced</ontology:hasTitle>
+    <ontology:hasDescription>Learn Reinforcement Learning in AI/ML. Suitable for Advanced level. Master core concepts and practical applications.</ontology:hasDescription>
+    <ontology:hasDuration rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">67</ontology:hasDuration>
+    <ontology:hasDifficulty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</ontology:hasDifficulty>
+    <ontology:hasRating rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.7</ontology:hasRating>
+    <ontology:hasPrice rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">147</ontology:hasPrice>
+    <ontology:suitableForLevel rdf:resource="http://www.elearning-platform.org/ontology#Advanced_Level"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.elearning-platform.org/ontology#Course_116">
+    <rdf:type rdf:resource="http://www.elearning-platform.org/ontology#Course"/>
+    <ontology:hasTitle>Complete Guide to Data Visualization - Intermediate</ontology:hasTitle>
+    <ontology:hasDescription>Learn Data Visualization in Data Science. Suitable for Intermediate level. Master core concepts and practical applications.</ontology:hasDescription>
+    <ontology:hasDuration rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">56</ontology:hasDuration>
+    <ontology:hasDifficulty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</ontology:hasDifficulty>
+    <ontology:hasRating rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.6</ontology:hasRating>
+    <ontology:hasPrice rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">216</ontology:hasPrice>
+    <ontology:suitableForLevel rdf:resource="http://www.elearning-platform.org/ontology#Intermediate_Level"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.elearning-platform.org/ontology#Carol_Expert">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+    <rdf:type rdf:resource="http://www.elearning-platform.org/ontology#Student"/>
+    <ontology:hasLevel rdf:resource="http://www.elearning-platform.org/ontology#Advanced_Level"/>
+    <ontology:hasSkill rdf:resource="http://www.elearning-platform.org/ontology#Machine_Learning"/>
+    <ontology:hasSkill rdf:resource="http://www.elearning-platform.org/ontology#Python_Programming"/>
+    <ontology:hasSkill rdf:resource="http://www.elearning-platform.org/ontology#Statistics"/>
+    <ontology:targetsGoal rdf:resource="http://www.elearning-platform.org/ontology#Become_Data_Scientist"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.elearning-platform.org/ontology#Course_111">
+    <rdf:type rdf:resource="http://www.elearning-platform.org/ontology#Course"/>
+    <ontology:hasTitle>Advanced to Analytics - Beginner</ontology:hasTitle>
+    <ontology:hasDescription>Learn Analytics in Data Science. Suitable for Beginner level. Master core concepts and practical applications.</ontology:hasDescription>
+    <ontology:hasDuration rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">51</ontology:hasDuration>
+    <ontology:hasDifficulty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ontology:hasDifficulty>
+    <ontology:hasRating rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.1</ontology:hasRating>
+    <ontology:hasPrice rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">211</ontology:hasPrice>
+    <ontology:suitableForLevel rdf:resource="http://www.elearning-platform.org/ontology#Beginner_Level"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.elearning-platform.org/ontology#Course_98">
+    <rdf:type rdf:resource="http://www.elearning-platform.org/ontology#Course"/>
+    <ontology:hasTitle>Practical to Data Visualization - Beginner</ontology:hasTitle>
+    <ontology:hasDescription>Learn Data Visualization in Data Science. Suitable for Beginner level. Master core concepts and practical applications.</ontology:hasDescription>
+    <ontology:hasDuration rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">38</ontology:hasDuration>
+    <ontology:hasDifficulty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ontology:hasDifficulty>
+    <ontology:hasRating rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.8</ontology:hasRating>
+    <ontology:hasPrice rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">198</ontology:hasPrice>
+    <ontology:suitableForLevel rdf:resource="http://www.elearning-platform.org/ontology#Beginner_Level"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.elearning-platform.org/ontology#Course_78">
+    <rdf:type rdf:resource="http://www.elearning-platform.org/ontology#Course"/>
+    <ontology:hasTitle>Practical to Web Security - Intermediate</ontology:hasTitle>
+    <ontology:hasDescription>Learn Web Security in Web Dev. Suitable for Intermediate level. Master core concepts and practical applications.</ontology:hasDescription>
+    <ontology:hasDuration rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">98</ontology:hasDuration>
+    <ontology:hasDifficulty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</ontology:hasDifficulty>
+    <ontology:hasRating rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.8</ontology:hasRating>
+    <ontology:hasPrice rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">178</ontology:hasPrice>
+    <ontology:suitableForLevel rdf:resource="http://www.elearning-platform.org/ontology#Intermediate_Level"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.elearning-platform.org/ontology#Course_81">
+    <rdf:type rdf:resource="http://www.elearning-platform.org/ontology#Course"/>
+    <ontology:hasTitle>Introduction to Frontend - Advanced</ontology:hasTitle>
+    <ontology:hasDescription>Learn Frontend in Web Dev. Suitable for Advanced level. Master core concepts and practical applications.</ontology:hasDescription>
+    <ontology:hasDuration rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">21</ontology:hasDuration>
+    <ontology:hasDifficulty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</ontology:hasDifficulty>
+    <ontology:hasRating rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.1</ontology:hasRating>
+    <ontology:hasPrice rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">181</ontology:hasPrice>
+    <ontology:suitableForLevel rdf:resource="http://www.elearning-platform.org/ontology#Advanced_Level"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.elearning-platform.org/ontology#Course_101">
+    <rdf:type rdf:resource="http://www.elearning-platform.org/ontology#Course"/>
+    <ontology:hasTitle>Introduction to Big Data - Beginner</ontology:hasTitle>
+    <ontology:hasDescription>Learn Big Data in Data Science. Suitable for Beginner level. Master core concepts and practical applications.</ontology:hasDescription>
+    <ontology:hasDuration rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">41</ontology:hasDuration>
+    <ontology:hasDifficulty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ontology:hasDifficulty>
+    <ontology:hasRating rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.1</ontology:hasRating>
+    <ontology:hasPrice rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">201</ontology:hasPrice>
+    <ontology:suitableForLevel rdf:resource="http://www.elearning-platform.org/ontology#Beginner_Level"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.elearning-platform.org/ontology#Course_22">
+    <rdf:type rdf:resource="http://www.elearning-platform.org/ontology#Course"/>
+    <ontology:hasTitle>Practical to Computer Vision - Intermediate</ontology:hasTitle>
+    <ontology:hasDescription>Learn Computer Vision in AI/ML. Suitable for Intermediate level. Master core concepts and practical applications.</ontology:hasDescription>
+    <ontology:hasDuration rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">42</ontology:hasDuration>
+    <ontology:hasDifficulty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</ontology:hasDifficulty>
+    <ontology:hasRating rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.2</ontology:hasRating>
+    <ontology:hasPrice rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">122</ontology:hasPrice>
+    <ontology:suitableForLevel rdf:resource="http://www.elearning-platform.org/ontology#Intermediate_Level"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.elearning-platform.org/ontology#Course_42">
+    <rdf:type rdf:resource="http://www.elearning-platform.org/ontology#Course"/>
+    <ontology:hasTitle>Practical to NLP - Advanced</ontology:hasTitle>
+    <ontology:hasDescription>Learn NLP in AI/ML. Suitable for Advanced level. Master core concepts and practical applications.</ontology:hasDescription>
+    <ontology:hasDuration rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">62</ontology:hasDuration>
+    <ontology:hasDifficulty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</ontology:hasDifficulty>
+    <ontology:hasRating rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.2</ontology:hasRating>
+    <ontology:hasPrice rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">142</ontology:hasPrice>
+    <ontology:suitableForLevel rdf:resource="http://www.elearning-platform.org/ontology#Advanced_Level"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.elearning-platform.org/ontology#Course_73">
+    <rdf:type rdf:resource="http://www.elearning-platform.org/ontology#Course"/>
+    <ontology:hasTitle>Introduction to Full Stack - Intermediate</ontology:hasTitle>
+    <ontology:hasDescription>Learn Full Stack in Web Dev. Suitable for Intermediate level. Master core concepts and practical applications.</ontology:hasDescription>
+    <ontology:hasDuration rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">93</ontology:hasDuration>
+    <ontology:hasDifficulty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</ontology:hasDifficulty>
+    <ontology:hasRating rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.3</ontology:hasRating>
+    <ontology:hasPrice rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">173</ontology:hasPrice>
+    <ontology:suitableForLevel rdf:resource="http://www.elearning-platform.org/ontology#Intermediate_Level"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.elearning-platform.org/ontology#hasTitle">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#DatatypeProperty"/>
+    <rdfs:domain rdf:resource="http://www.elearning-platform.org/ontology#Course"/>
+    <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    <rdfs:comment>Titre du cours</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.elearning-platform.org/ontology#Course_40">
+    <rdf:type rdf:resource="http://www.elearning-platform.org/ontology#Course"/>
+    <ontology:hasTitle>Complete Guide to Computer Vision - Advanced</ontology:hasTitle>
+    <ontology:hasDescription>Learn Computer Vision in AI/ML. Suitable for Advanced level. Master core concepts and practical applications.</ontology:hasDescription>
+    <ontology:hasDuration rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">60</ontology:hasDuration>
+    <ontology:hasDifficulty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</ontology:hasDifficulty>
+    <ontology:hasRating rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.0</ontology:hasRating>
+    <ontology:hasPrice rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">140</ontology:hasPrice>
+    <ontology:suitableForLevel rdf:resource="http://www.elearning-platform.org/ontology#Advanced_Level"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N8474e92d0c1641559b86260e455a1d2f">
+    <rdf:first rdf:resource="http://www.elearning-platform.org/ontology#Course"/>
+    <rdf:rest rdf:nodeID="N4d1c0cf9c7fd4a8e8a7b135f7869e496"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.elearning-platform.org/ontology#hasLevel">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#FunctionalProperty"/>
+    <rdfs:domain rdf:resource="http://www.elearning-platform.org/ontology#Student"/>
+    <rdfs:range rdf:resource="http://www.elearning-platform.org/ontology#Level"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.elearning-platform.org/ontology#Course_118">
+    <rdf:type rdf:resource="http://www.elearning-platform.org/ontology#Course"/>
+    <ontology:hasTitle>Practical to Big Data - Intermediate</ontology:hasTitle>
+    <ontology:hasDescription>Learn Big Data in Data Science. Suitable for Intermediate level. Master core concepts and practical applications.</ontology:hasDescription>
+    <ontology:hasDuration rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">58</ontology:hasDuration>
+    <ontology:hasDifficulty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</ontology:hasDifficulty>
+    <ontology:hasRating rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.8</ontology:hasRating>
+    <ontology:hasPrice rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">218</ontology:hasPrice>
+    <ontology:suitableForLevel rdf:resource="http://www.elearning-platform.org/ontology#Intermediate_Level"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.elearning-platform.org/ontology#Course_64">
+    <rdf:type rdf:resource="http://www.elearning-platform.org/ontology#Course"/>
+    <ontology:hasTitle>Complete Guide to Web Security - Beginner</ontology:hasTitle>
+    <ontology:hasDescription>Learn Web Security in Web Dev. Suitable for Beginner level. Master core concepts and practical applications.</ontology:hasDescription>
+    <ontology:hasDuration rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">84</ontology:hasDuration>
+    <ontology:hasDifficulty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ontology:hasDifficulty>
+    <ontology:hasRating rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.4</ontology:hasRating>
+    <ontology:hasPrice rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">164</ontology:hasPrice>
+    <ontology:suitableForLevel rdf:resource="http://www.elearning-platform.org/ontology#Beginner_Level"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.elearning-platform.org/ontology#Course_108">
+    <rdf:type rdf:resource="http://www.elearning-platform.org/ontology#Course"/>
+    <ontology:hasTitle>Complete Guide to Data Mining - Beginner</ontology:hasTitle>
+    <ontology:hasDescription>Learn Data Mining in Data Science. Suitable for Beginner level. Master core concepts and practical applications.</ontology:hasDescription>
+    <ontology:hasDuration rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">48</ontology:hasDuration>
+    <ontology:hasDifficulty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ontology:hasDifficulty>
+    <ontology:hasRating rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.8</ontology:hasRating>
+    <ontology:hasPrice rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">208</ontology:hasPrice>
+    <ontology:suitableForLevel rdf:resource="http://www.elearning-platform.org/ontology#Beginner_Level"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.elearning-platform.org/ontology#Course_50">
+    <rdf:type rdf:resource="http://www.elearning-platform.org/ontology#Course"/>
+    <ontology:hasTitle>Practical to Frontend - Beginner</ontology:hasTitle>
+    <ontology:hasDescription>Learn Frontend in Web Dev. Suitable for Beginner level. Master core concepts and practical applications.</ontology:hasDescription>
+    <ontology:hasDuration rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">70</ontology:hasDuration>
+    <ontology:hasDifficulty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ontology:hasDifficulty>
+    <ontology:hasRating rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.0</ontology:hasRating>
+    <ontology:hasPrice rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ontology:hasPrice>
+    <ontology:suitableForLevel rdf:resource="http://www.elearning-platform.org/ontology#Beginner_Level"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.elearning-platform.org/ontology#Course_2">
+    <rdf:type rdf:resource="http://www.elearning-platform.org/ontology#Course"/>
+    <ontology:hasTitle>Practical to Neural Networks - Beginner</ontology:hasTitle>
+    <ontology:hasDescription>Learn Neural Networks in AI/ML. Suitable for Beginner level. Master core concepts and practical applications.</ontology:hasDescription>
+    <ontology:hasDuration rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">22</ontology:hasDuration>
+    <ontology:hasDifficulty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ontology:hasDifficulty>
+    <ontology:hasRating rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.2</ontology:hasRating>
+    <ontology:hasPrice rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">102</ontology:hasPrice>
+    <ontology:suitableForLevel rdf:resource="http://www.elearning-platform.org/ontology#Beginner_Level"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.elearning-platform.org/ontology#Course_62">
+    <rdf:type rdf:resource="http://www.elearning-platform.org/ontology#Course"/>
+    <ontology:hasTitle>Practical to Web Security - Beginner</ontology:hasTitle>
+    <ontology:hasDescription>Learn Web Security in Web Dev. Suitable for Beginner level. Master core concepts and practical applications.</ontology:hasDescription>
+    <ontology:hasDuration rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">82</ontology:hasDuration>
+    <ontology:hasDifficulty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ontology:hasDifficulty>
+    <ontology:hasRating rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.2</ontology:hasRating>
+    <ontology:hasPrice rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">162</ontology:hasPrice>
+    <ontology:suitableForLevel rdf:resource="http://www.elearning-platform.org/ontology#Beginner_Level"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.elearning-platform.org/ontology#Course_38">
+    <rdf:type rdf:resource="http://www.elearning-platform.org/ontology#Course"/>
+    <ontology:hasTitle>Practical to Computer Vision - Advanced</ontology:hasTitle>
+    <ontology:hasDescription>Learn Computer Vision in AI/ML. Suitable for Advanced level. Master core concepts and practical applications.</ontology:hasDescription>
+    <ontology:hasDuration rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">58</ontology:hasDuration>
+    <ontology:hasDifficulty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</ontology:hasDifficulty>
+    <ontology:hasRating rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.8</ontology:hasRating>
+    <ontology:hasPrice rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">138</ontology:hasPrice>
+    <ontology:suitableForLevel rdf:resource="http://www.elearning-platform.org/ontology#Advanced_Level"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.elearning-platform.org/ontology#Course_28">
+    <rdf:type rdf:resource="http://www.elearning-platform.org/ontology#Course"/>
+    <ontology:hasTitle>Complete Guide to NLP - Intermediate</ontology:hasTitle>
+    <ontology:hasDescription>Learn NLP in AI/ML. Suitable for Intermediate level. Master core concepts and practical applications.</ontology:hasDescription>
+    <ontology:hasDuration rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">48</ontology:hasDuration>
+    <ontology:hasDifficulty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</ontology:hasDifficulty>
+    <ontology:hasRating rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.8</ontology:hasRating>
+    <ontology:hasPrice rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">128</ontology:hasPrice>
+    <ontology:suitableForLevel rdf:resource="http://www.elearning-platform.org/ontology#Intermediate_Level"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.elearning-platform.org/ontology#Course_86">
+    <rdf:type rdf:resource="http://www.elearning-platform.org/ontology#Course"/>
+    <ontology:hasTitle>Practical to Backend - Advanced</ontology:hasTitle>
+    <ontology:hasDescription>Learn Backend in Web Dev. Suitable for Advanced level. Master core concepts and practical applications.</ontology:hasDescription>
+    <ontology:hasDuration rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">26</ontology:hasDuration>
+    <ontology:hasDifficulty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</ontology:hasDifficulty>
+    <ontology:hasRating rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.6</ontology:hasRating>
+    <ontology:hasPrice rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">186</ontology:hasPrice>
+    <ontology:suitableForLevel rdf:resource="http://www.elearning-platform.org/ontology#Advanced_Level"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.elearning-platform.org/ontology#Course_89">
+    <rdf:type rdf:resource="http://www.elearning-platform.org/ontology#Course"/>
+    <ontology:hasTitle>Introduction to Full Stack - Advanced</ontology:hasTitle>
+    <ontology:hasDescription>Learn Full Stack in Web Dev. Suitable for Advanced level. Master core concepts and practical applications.</ontology:hasDescription>
+    <ontology:hasDuration rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">29</ontology:hasDuration>
+    <ontology:hasDifficulty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</ontology:hasDifficulty>
+    <ontology:hasRating rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.9</ontology:hasRating>
+    <ontology:hasPrice rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">189</ontology:hasPrice>
+    <ontology:suitableForLevel rdf:resource="http://www.elearning-platform.org/ontology#Advanced_Level"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.elearning-platform.org/ontology#Course_119">
+    <rdf:type rdf:resource="http://www.elearning-platform.org/ontology#Course"/>
+    <ontology:hasTitle>Advanced to Big Data - Intermediate</ontology:hasTitle>
+    <ontology:hasDescription>Learn Big Data in Data Science. Suitable for Intermediate level. Master core concepts and practical applications.</ontology:hasDescription>
+    <ontology:hasDuration rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">59</ontology:hasDuration>
+    <ontology:hasDifficulty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</ontology:hasDifficulty>
+    <ontology:hasRating rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.9</ontology:hasRating>
+    <ontology:hasPrice rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">219</ontology:hasPrice>
+    <ontology:suitableForLevel rdf:resource="http://www.elearning-platform.org/ontology#Intermediate_Level"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.elearning-platform.org/ontology#Course_31">
+    <rdf:type rdf:resource="http://www.elearning-platform.org/ontology#Course"/>
+    <ontology:hasTitle>Advanced to Reinforcement Learning - Intermediate</ontology:hasTitle>
+    <ontology:hasDescription>Learn Reinforcement Learning in AI/ML. Suitable for Intermediate level. Master core concepts and practical applications.</ontology:hasDescription>
+    <ontology:hasDuration rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">51</ontology:hasDuration>
+    <ontology:hasDifficulty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</ontology:hasDifficulty>
+    <ontology:hasRating rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.1</ontology:hasRating>
+    <ontology:hasPrice rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">131</ontology:hasPrice>
+    <ontology:suitableForLevel rdf:resource="http://www.elearning-platform.org/ontology#Intermediate_Level"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.elearning-platform.org/ontology#Course_70">
+    <rdf:type rdf:resource="http://www.elearning-platform.org/ontology#Course"/>
+    <ontology:hasTitle>Practical to Backend - Intermediate</ontology:hasTitle>
+    <ontology:hasDescription>Learn Backend in Web Dev. Suitable for Intermediate level. Master core concepts and practical applications.</ontology:hasDescription>
+    <ontology:hasDuration rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">90</ontology:hasDuration>
+    <ontology:hasDifficulty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</ontology:hasDifficulty>
+    <ontology:hasRating rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.0</ontology:hasRating>
+    <ontology:hasPrice rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">170</ontology:hasPrice>
+    <ontology:suitableForLevel rdf:resource="http://www.elearning-platform.org/ontology#Intermediate_Level"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.elearning-platform.org/ontology#Course_53">
+    <rdf:type rdf:resource="http://www.elearning-platform.org/ontology#Course"/>
+    <ontology:hasTitle>Introduction to Backend - Beginner</ontology:hasTitle>
+    <ontology:hasDescription>Learn Backend in Web Dev. Suitable for Beginner level. Master core concepts and practical applications.</ontology:hasDescription>
+    <ontology:hasDuration rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">73</ontology:hasDuration>
+    <ontology:hasDifficulty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ontology:hasDifficulty>
+    <ontology:hasRating rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.3</ontology:hasRating>
+    <ontology:hasPrice rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">153</ontology:hasPrice>
+    <ontology:suitableForLevel rdf:resource="http://www.elearning-platform.org/ontology#Beginner_Level"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nf56885edb6004eaf9388562b32e00202">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Restriction"/>
+    <owl:onProperty rdf:resource="http://www.elearning-platform.org/ontology#suitableForLevel"/>
+    <owl:someValuesFrom rdf:resource="http://www.elearning-platform.org/ontology#Beginner"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Na7b886f08e2c411b9e1974c87a172203">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Restriction"/>
+    <owl:onProperty rdf:resource="http://www.elearning-platform.org/ontology#requiresSkill"/>
+    <owl:maxQualifiedCardinality rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">3</owl:maxQualifiedCardinality>
+    <owl:onClass rdf:resource="http://www.elearning-platform.org/ontology#Skill"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.elearning-platform.org/ontology#Course_45">
+    <rdf:type rdf:resource="http://www.elearning-platform.org/ontology#Course"/>
+    <ontology:hasTitle>Introduction to Reinforcement Learning - Advanced</ontology:hasTitle>
+    <ontology:hasDescription>Learn Reinforcement Learning in AI/ML. Suitable for Advanced level. Master core concepts and practical applications.</ontology:hasDescription>
+    <ontology:hasDuration rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">65</ontology:hasDuration>
+    <ontology:hasDifficulty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</ontology:hasDifficulty>
+    <ontology:hasRating rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.5</ontology:hasRating>
+    <ontology:hasPrice rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">145</ontology:hasPrice>
+    <ontology:suitableForLevel rdf:resource="http://www.elearning-platform.org/ontology#Advanced_Level"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.elearning-platform.org/ontology#Course_6">
+    <rdf:type rdf:resource="http://www.elearning-platform.org/ontology#Course"/>
+    <ontology:hasTitle>Practical to Computer Vision - Beginner</ontology:hasTitle>
+    <ontology:hasDescription>Learn Computer Vision in AI/ML. Suitable for Beginner level. Master core concepts and practical applications.</ontology:hasDescription>
+    <ontology:hasDuration rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">26</ontology:hasDuration>
+    <ontology:hasDifficulty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ontology:hasDifficulty>
+    <ontology:hasRating rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.6</ontology:hasRating>
+    <ontology:hasPrice rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">106</ontology:hasPrice>
+    <ontology:suitableForLevel rdf:resource="http://www.elearning-platform.org/ontology#Beginner_Level"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.elearning-platform.org/ontology#Course_68">
+    <rdf:type rdf:resource="http://www.elearning-platform.org/ontology#Course"/>
+    <ontology:hasTitle>Complete Guide to Frontend - Intermediate</ontology:hasTitle>
+    <ontology:hasDescription>Learn Frontend in Web Dev. Suitable for Intermediate level. Master core concepts and practical applications.</ontology:hasDescription>
+    <ontology:hasDuration rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">88</ontology:hasDuration>
+    <ontology:hasDifficulty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</ontology:hasDifficulty>
+    <ontology:hasRating rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.8</ontology:hasRating>
+    <ontology:hasPrice rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">168</ontology:hasPrice>
+    <ontology:suitableForLevel rdf:resource="http://www.elearning-platform.org/ontology#Intermediate_Level"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.elearning-platform.org/ontology#Course_56">
+    <rdf:type rdf:resource="http://www.elearning-platform.org/ontology#Course"/>
+    <ontology:hasTitle>Complete Guide to Backend - Beginner</ontology:hasTitle>
+    <ontology:hasDescription>Learn Backend in Web Dev. Suitable for Beginner level. Master core concepts and practical applications.</ontology:hasDescription>
+    <ontology:hasDuration rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">76</ontology:hasDuration>
+    <ontology:hasDifficulty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ontology:hasDifficulty>
+    <ontology:hasRating rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.6</ontology:hasRating>
+    <ontology:hasPrice rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">156</ontology:hasPrice>
+    <ontology:suitableForLevel rdf:resource="http://www.elearning-platform.org/ontology#Beginner_Level"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.elearning-platform.org/ontology#Course_5">
+    <rdf:type rdf:resource="http://www.elearning-platform.org/ontology#Course"/>
+    <ontology:hasTitle>Introduction to Computer Vision - Beginner</ontology:hasTitle>
+    <ontology:hasDescription>Learn Computer Vision in AI/ML. Suitable for Beginner level. Master core concepts and practical applications.</ontology:hasDescription>
+    <ontology:hasDuration rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">25</ontology:hasDuration>
+    <ontology:hasDifficulty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ontology:hasDifficulty>
+    <ontology:hasRating rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.5</ontology:hasRating>
+    <ontology:hasPrice rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">105</ontology:hasPrice>
+    <ontology:suitableForLevel rdf:resource="http://www.elearning-platform.org/ontology#Beginner_Level"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Ndb2fcf5ca3164bb58f80fc131c736ad9">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <owl:intersectionOf rdf:nodeID="N178df1dc023e4d94b343ca7aed366378"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.elearning-platform.org/ontology#Course_112">
+    <rdf:type rdf:resource="http://www.elearning-platform.org/ontology#Course"/>
+    <ontology:hasTitle>Complete Guide to Analytics - Beginner</ontology:hasTitle>
+    <ontology:hasDescription>Learn Analytics in Data Science. Suitable for Beginner level. Master core concepts and practical applications.</ontology:hasDescription>
+    <ontology:hasDuration rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">52</ontology:hasDuration>
+    <ontology:hasDifficulty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ontology:hasDifficulty>
+    <ontology:hasRating rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.2</ontology:hasRating>
+    <ontology:hasPrice rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">212</ontology:hasPrice>
+    <ontology:suitableForLevel rdf:resource="http://www.elearning-platform.org/ontology#Beginner_Level"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.elearning-platform.org/ontology#Course_94">
+    <rdf:type rdf:resource="http://www.elearning-platform.org/ontology#Course"/>
+    <ontology:hasTitle>Practical to Web Security - Advanced</ontology:hasTitle>
+    <ontology:hasDescription>Learn Web Security in Web Dev. Suitable for Advanced level. Master core concepts and practical applications.</ontology:hasDescription>
+    <ontology:hasDuration rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">34</ontology:hasDuration>
+    <ontology:hasDifficulty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</ontology:hasDifficulty>
+    <ontology:hasRating rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.4</ontology:hasRating>
+    <ontology:hasPrice rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">194</ontology:hasPrice>
+    <ontology:suitableForLevel rdf:resource="http://www.elearning-platform.org/ontology#Advanced_Level"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.elearning-platform.org/ontology#hasDescription">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#DatatypeProperty"/>
+    <rdfs:domain rdf:resource="http://www.elearning-platform.org/ontology#Course"/>
+    <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    <rdfs:comment>Description</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.elearning-platform.org/ontology#IntermediateCourse">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <owl:equivalentClass rdf:nodeID="Ndb2fcf5ca3164bb58f80fc131c736ad9"/>
+    <rdfs:subClassOf rdf:resource="http://www.elearning-platform.org/ontology#Course"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.elearning-platform.org/ontology#TechnicalSkill">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:subClassOf rdf:resource="http://www.elearning-platform.org/ontology#Skill"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.elearning-platform.org/ontology#Course_80">
+    <rdf:type rdf:resource="http://www.elearning-platform.org/ontology#Course"/>
+    <ontology:hasTitle>Complete Guide to Web Security - Intermediate</ontology:hasTitle>
+    <ontology:hasDescription>Learn Web Security in Web Dev. Suitable for Intermediate level. Master core concepts and practical applications.</ontology:hasDescription>
+    <ontology:hasDuration rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">20</ontology:hasDuration>
+    <ontology:hasDifficulty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</ontology:hasDifficulty>
+    <ontology:hasRating rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.0</ontology:hasRating>
+    <ontology:hasPrice rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">180</ontology:hasPrice>
+    <ontology:suitableForLevel rdf:resource="http://www.elearning-platform.org/ontology#Intermediate_Level"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.elearning-platform.org/ontology#Course_79">
+    <rdf:type rdf:resource="http://www.elearning-platform.org/ontology#Course"/>
+    <ontology:hasTitle>Advanced to Web Security - Intermediate</ontology:hasTitle>
+    <ontology:hasDescription>Learn Web Security in Web Dev. Suitable for Intermediate level. Master core concepts and practical applications.</ontology:hasDescription>
+    <ontology:hasDuration rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">99</ontology:hasDuration>
+    <ontology:hasDifficulty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</ontology:hasDifficulty>
+    <ontology:hasRating rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.9</ontology:hasRating>
+    <ontology:hasPrice rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">179</ontology:hasPrice>
+    <ontology:suitableForLevel rdf:resource="http://www.elearning-platform.org/ontology#Intermediate_Level"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.elearning-platform.org/ontology#Bob_NomathML">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+    <rdf:type rdf:resource="http://www.elearning-platform.org/ontology#Student"/>
+    <ontology:hasLevel rdf:resource="http://www.elearning-platform.org/ontology#Intermediate_Level"/>
+    <ontology:hasSkill rdf:resource="http://www.elearning-platform.org/ontology#Python_Programming"/>
+    <ontology:lacksSkill rdf:resource="http://www.elearning-platform.org/ontology#Linear_Algebra"/>
+    <ontology:targetsGoal rdf:resource="http://www.elearning-platform.org/ontology#Learn_AI"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.elearning-platform.org/ontology#Course_20">
+    <rdf:type rdf:resource="http://www.elearning-platform.org/ontology#Course"/>
+    <ontology:hasTitle>Complete Guide to Neural Networks - Intermediate</ontology:hasTitle>
+    <ontology:hasDescription>Learn Neural Networks in AI/ML. Suitable for Intermediate level. Master core concepts and practical applications.</ontology:hasDescription>
+    <ontology:hasDuration rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">40</ontology:hasDuration>
+    <ontology:hasDifficulty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</ontology:hasDifficulty>
+    <ontology:hasRating rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.0</ontology:hasRating>
+    <ontology:hasPrice rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">120</ontology:hasPrice>
+    <ontology:suitableForLevel rdf:resource="http://www.elearning-platform.org/ontology#Intermediate_Level"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.elearning-platform.org/ontology#Course_110">
+    <rdf:type rdf:resource="http://www.elearning-platform.org/ontology#Course"/>
+    <ontology:hasTitle>Practical to Analytics - Beginner</ontology:hasTitle>
+    <ontology:hasDescription>Learn Analytics in Data Science. Suitable for Beginner level. Master core concepts and practical applications.</ontology:hasDescription>
+    <ontology:hasDuration rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">50</ontology:hasDuration>
+    <ontology:hasDifficulty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ontology:hasDifficulty>
+    <ontology:hasRating rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.0</ontology:hasRating>
+    <ontology:hasPrice rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">210</ontology:hasPrice>
+    <ontology:suitableForLevel rdf:resource="http://www.elearning-platform.org/ontology#Beginner_Level"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.elearning-platform.org/ontology#Course_7">
+    <rdf:type rdf:resource="http://www.elearning-platform.org/ontology#Course"/>
+    <ontology:hasTitle>Advanced to Computer Vision - Beginner</ontology:hasTitle>
+    <ontology:hasDescription>Learn Computer Vision in AI/ML. Suitable for Beginner level. Master core concepts and practical applications.</ontology:hasDescription>
+    <ontology:hasDuration rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">27</ontology:hasDuration>
+    <ontology:hasDifficulty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ontology:hasDifficulty>
+    <ontology:hasRating rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.7</ontology:hasRating>
+    <ontology:hasPrice rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">107</ontology:hasPrice>
+    <ontology:suitableForLevel rdf:resource="http://www.elearning-platform.org/ontology#Beginner_Level"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.elearning-platform.org/ontology#Become_Data_Scientist">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.elearning-platform.org/ontology#Course_65">
+    <rdf:type rdf:resource="http://www.elearning-platform.org/ontology#Course"/>
+    <ontology:hasTitle>Introduction to Frontend - Intermediate</ontology:hasTitle>
+    <ontology:hasDescription>Learn Frontend in Web Dev. Suitable for Intermediate level. Master core concepts and practical applications.</ontology:hasDescription>
+    <ontology:hasDuration rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">85</ontology:hasDuration>
+    <ontology:hasDifficulty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</ontology:hasDifficulty>
+    <ontology:hasRating rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.5</ontology:hasRating>
+    <ontology:hasPrice rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">165</ontology:hasPrice>
+    <ontology:suitableForLevel rdf:resource="http://www.elearning-platform.org/ontology#Intermediate_Level"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.elearning-platform.org/ontology#Advanced_Level">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N6f3522c7172b48f6b3e2187972d99009">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <owl:intersectionOf rdf:nodeID="N5fb6562b4d2b40739da367d9e1bbd86a"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.elearning-platform.org/ontology#Course_115">
+    <rdf:type rdf:resource="http://www.elearning-platform.org/ontology#Course"/>
+    <ontology:hasTitle>Advanced to Data Visualization - Intermediate</ontology:hasTitle>
+    <ontology:hasDescription>Learn Data Visualization in Data Science. Suitable for Intermediate level. Master core concepts and practical applications.</ontology:hasDescription>
+    <ontology:hasDuration rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">55</ontology:hasDuration>
+    <ontology:hasDifficulty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</ontology:hasDifficulty>
+    <ontology:hasRating rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.5</ontology:hasRating>
+    <ontology:hasPrice rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">215</ontology:hasPrice>
+    <ontology:suitableForLevel rdf:resource="http://www.elearning-platform.org/ontology#Intermediate_Level"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.elearning-platform.org/ontology#Course_26">
+    <rdf:type rdf:resource="http://www.elearning-platform.org/ontology#Course"/>
+    <ontology:hasTitle>Practical to NLP - Intermediate</ontology:hasTitle>
+    <ontology:hasDescription>Learn NLP in AI/ML. Suitable for Intermediate level. Master core concepts and practical applications.</ontology:hasDescription>
+    <ontology:hasDuration rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">46</ontology:hasDuration>
+    <ontology:hasDifficulty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</ontology:hasDifficulty>
+    <ontology:hasRating rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.6</ontology:hasRating>
+    <ontology:hasPrice rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">126</ontology:hasPrice>
+    <ontology:suitableForLevel rdf:resource="http://www.elearning-platform.org/ontology#Intermediate_Level"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.elearning-platform.org/ontology#Course_113">
+    <rdf:type rdf:resource="http://www.elearning-platform.org/ontology#Course"/>
+    <ontology:hasTitle>Introduction to Data Visualization - Intermediate</ontology:hasTitle>
+    <ontology:hasDescription>Learn Data Visualization in Data Science. Suitable for Intermediate level. Master core concepts and practical applications.</ontology:hasDescription>
+    <ontology:hasDuration rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">53</ontology:hasDuration>
+    <ontology:hasDifficulty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</ontology:hasDifficulty>
+    <ontology:hasRating rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.3</ontology:hasRating>
+    <ontology:hasPrice rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">213</ontology:hasPrice>
+    <ontology:suitableForLevel rdf:resource="http://www.elearning-platform.org/ontology#Intermediate_Level"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.elearning-platform.org/ontology#Course_100">
+    <rdf:type rdf:resource="http://www.elearning-platform.org/ontology#Course"/>
+    <ontology:hasTitle>Complete Guide to Data Visualization - Beginner</ontology:hasTitle>
+    <ontology:hasDescription>Learn Data Visualization in Data Science. Suitable for Beginner level. Master core concepts and practical applications.</ontology:hasDescription>
+    <ontology:hasDuration rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">40</ontology:hasDuration>
+    <ontology:hasDifficulty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ontology:hasDifficulty>
+    <ontology:hasRating rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.0</ontology:hasRating>
+    <ontology:hasPrice rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">200</ontology:hasPrice>
+    <ontology:suitableForLevel rdf:resource="http://www.elearning-platform.org/ontology#Beginner_Level"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.elearning-platform.org/ontology#Alice_Beginner">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+    <rdf:type rdf:resource="http://www.elearning-platform.org/ontology#Student"/>
+    <ontology:hasLevel rdf:resource="http://www.elearning-platform.org/ontology#Beginner_Level"/>
+    <ontology:targetsGoal rdf:resource="http://www.elearning-platform.org/ontology#Change_Career_To_Tech"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.elearning-platform.org/ontology#Course_76">
+    <rdf:type rdf:resource="http://www.elearning-platform.org/ontology#Course"/>
+    <ontology:hasTitle>Complete Guide to Full Stack - Intermediate</ontology:hasTitle>
+    <ontology:hasDescription>Learn Full Stack in Web Dev. Suitable for Intermediate level. Master core concepts and practical applications.</ontology:hasDescription>
+    <ontology:hasDuration rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">96</ontology:hasDuration>
+    <ontology:hasDifficulty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</ontology:hasDifficulty>
+    <ontology:hasRating rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.6</ontology:hasRating>
+    <ontology:hasPrice rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">176</ontology:hasPrice>
+    <ontology:suitableForLevel rdf:resource="http://www.elearning-platform.org/ontology#Intermediate_Level"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nd07f8bef667d4d70bb2141e8da1e231d">
+    <rdf:first rdf:nodeID="N6c78e85c651c468395fd6d584aa2e86c"/>
+    <rdf:rest rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#nil"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.elearning-platform.org/ontology#Course_67">
+    <rdf:type rdf:resource="http://www.elearning-platform.org/ontology#Course"/>
+    <ontology:hasTitle>Advanced to Frontend - Intermediate</ontology:hasTitle>
+    <ontology:hasDescription>Learn Frontend in Web Dev. Suitable for Intermediate level. Master core concepts and practical applications.</ontology:hasDescription>
+    <ontology:hasDuration rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">87</ontology:hasDuration>
+    <ontology:hasDifficulty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</ontology:hasDifficulty>
+    <ontology:hasRating rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.7</ontology:hasRating>
+    <ontology:hasPrice rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">167</ontology:hasPrice>
+    <ontology:suitableForLevel rdf:resource="http://www.elearning-platform.org/ontology#Intermediate_Level"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.elearning-platform.org/ontology#Course_117">
+    <rdf:type rdf:resource="http://www.elearning-platform.org/ontology#Course"/>
+    <ontology:hasTitle>Introduction to Big Data - Intermediate</ontology:hasTitle>
+    <ontology:hasDescription>Learn Big Data in Data Science. Suitable for Intermediate level. Master core concepts and practical applications.</ontology:hasDescription>
+    <ontology:hasDuration rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">57</ontology:hasDuration>
+    <ontology:hasDifficulty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</ontology:hasDifficulty>
+    <ontology:hasRating rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.7</ontology:hasRating>
+    <ontology:hasPrice rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">217</ontology:hasPrice>
+    <ontology:suitableForLevel rdf:resource="http://www.elearning-platform.org/ontology#Intermediate_Level"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.elearning-platform.org/ontology#hasDuration">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#DatatypeProperty"/>
+    <rdfs:domain rdf:resource="http://www.elearning-platform.org/ontology#Course"/>
+    <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#integer"/>
+    <rdfs:comment>Durée en heures</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.elearning-platform.org/ontology#Course_16">
+    <rdf:type rdf:resource="http://www.elearning-platform.org/ontology#Course"/>
+    <ontology:hasTitle>Complete Guide to Reinforcement Learning - Beginner</ontology:hasTitle>
+    <ontology:hasDescription>Learn Reinforcement Learning in AI/ML. Suitable for Beginner level. Master core concepts and practical applications.</ontology:hasDescription>
+    <ontology:hasDuration rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">36</ontology:hasDuration>
+    <ontology:hasDifficulty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ontology:hasDifficulty>
+    <ontology:hasRating rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.6</ontology:hasRating>
+    <ontology:hasPrice rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">116</ontology:hasPrice>
+    <ontology:suitableForLevel rdf:resource="http://www.elearning-platform.org/ontology#Beginner_Level"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.elearning-platform.org/ontology#Course_8">
+    <rdf:type rdf:resource="http://www.elearning-platform.org/ontology#Course"/>
+    <ontology:hasTitle>Complete Guide to Computer Vision - Beginner</ontology:hasTitle>
+    <ontology:hasDescription>Learn Computer Vision in AI/ML. Suitable for Beginner level. Master core concepts and practical applications.</ontology:hasDescription>
+    <ontology:hasDuration rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">28</ontology:hasDuration>
+    <ontology:hasDifficulty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ontology:hasDifficulty>
+    <ontology:hasRating rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.8</ontology:hasRating>
+    <ontology:hasPrice rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">108</ontology:hasPrice>
+    <ontology:suitableForLevel rdf:resource="http://www.elearning-platform.org/ontology#Beginner_Level"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.elearning-platform.org/ontology#Course_4">
+    <rdf:type rdf:resource="http://www.elearning-platform.org/ontology#Course"/>
+    <ontology:hasTitle>Complete Guide to Neural Networks - Beginner</ontology:hasTitle>
+    <ontology:hasDescription>Learn Neural Networks in AI/ML. Suitable for Beginner level. Master core concepts and practical applications.</ontology:hasDescription>
+    <ontology:hasDuration rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">24</ontology:hasDuration>
+    <ontology:hasDifficulty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ontology:hasDifficulty>
+    <ontology:hasRating rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.4</ontology:hasRating>
+    <ontology:hasPrice rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">104</ontology:hasPrice>
+    <ontology:suitableForLevel rdf:resource="http://www.elearning-platform.org/ontology#Beginner_Level"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nb447fe9a22b24b7f878161e2f8c0a613">
+    <rdf:first rdf:nodeID="Na7b886f08e2c411b9e1974c87a172203"/>
+    <rdf:rest rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#nil"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.elearning-platform.org/ontology#Course_91">
+    <rdf:type rdf:resource="http://www.elearning-platform.org/ontology#Course"/>
+    <ontology:hasTitle>Advanced to Full Stack - Advanced</ontology:hasTitle>
+    <ontology:hasDescription>Learn Full Stack in Web Dev. Suitable for Advanced level. Master core concepts and practical applications.</ontology:hasDescription>
+    <ontology:hasDuration rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">31</ontology:hasDuration>
+    <ontology:hasDifficulty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</ontology:hasDifficulty>
+    <ontology:hasRating rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.1</ontology:hasRating>
+    <ontology:hasPrice rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">191</ontology:hasPrice>
+    <ontology:suitableForLevel rdf:resource="http://www.elearning-platform.org/ontology#Advanced_Level"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.elearning-platform.org/ontology#targetsGoal">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+    <rdfs:domain rdf:resource="http://www.elearning-platform.org/ontology#Student"/>
+    <rdfs:range rdf:resource="http://www.elearning-platform.org/ontology#LearningGoal"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.elearning-platform.org/ontology#Course_11">
+    <rdf:type rdf:resource="http://www.elearning-platform.org/ontology#Course"/>
+    <ontology:hasTitle>Advanced to NLP - Beginner</ontology:hasTitle>
+    <ontology:hasDescription>Learn NLP in AI/ML. Suitable for Beginner level. Master core concepts and practical applications.</ontology:hasDescription>
+    <ontology:hasDuration rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">31</ontology:hasDuration>
+    <ontology:hasDifficulty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ontology:hasDifficulty>
+    <ontology:hasRating rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.1</ontology:hasRating>
+    <ontology:hasPrice rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">111</ontology:hasPrice>
+    <ontology:suitableForLevel rdf:resource="http://www.elearning-platform.org/ontology#Beginner_Level"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.elearning-platform.org/ontology#Course_36">
+    <rdf:type rdf:resource="http://www.elearning-platform.org/ontology#Course"/>
+    <ontology:hasTitle>Complete Guide to Neural Networks - Advanced</ontology:hasTitle>
+    <ontology:hasDescription>Learn Neural Networks in AI/ML. Suitable for Advanced level. Master core concepts and practical applications.</ontology:hasDescription>
+    <ontology:hasDuration rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">56</ontology:hasDuration>
+    <ontology:hasDifficulty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</ontology:hasDifficulty>
+    <ontology:hasRating rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.6</ontology:hasRating>
+    <ontology:hasPrice rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">136</ontology:hasPrice>
+    <ontology:suitableForLevel rdf:resource="http://www.elearning-platform.org/ontology#Advanced_Level"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.elearning-platform.org/ontology#hasEnrollmentCount">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#DatatypeProperty"/>
+    <rdfs:domain rdf:resource="http://www.elearning-platform.org/ontology#Course"/>
+    <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    <rdfs:comment>Nombre d'inscrits</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.elearning-platform.org/ontology#Course_13">
+    <rdf:type rdf:resource="http://www.elearning-platform.org/ontology#Course"/>
+    <ontology:hasTitle>Introduction to Reinforcement Learning - Beginner</ontology:hasTitle>
+    <ontology:hasDescription>Learn Reinforcement Learning in AI/ML. Suitable for Beginner level. Master core concepts and practical applications.</ontology:hasDescription>
+    <ontology:hasDuration rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">33</ontology:hasDuration>
+    <ontology:hasDifficulty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ontology:hasDifficulty>
+    <ontology:hasRating rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.3</ontology:hasRating>
+    <ontology:hasPrice rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">113</ontology:hasPrice>
+    <ontology:suitableForLevel rdf:resource="http://www.elearning-platform.org/ontology#Beginner_Level"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.elearning-platform.org/ontology#hasPrice">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#DatatypeProperty"/>
+    <rdfs:domain rdf:resource="http://www.elearning-platform.org/ontology#Course"/>
+    <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#decimal"/>
+    <rdfs:comment>Prix en dinars</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.elearning-platform.org/ontology#lacksSkill">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+    <rdfs:domain rdf:resource="http://www.elearning-platform.org/ontology#Student"/>
+    <rdfs:range rdf:resource="http://www.elearning-platform.org/ontology#Skill"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.elearning-platform.org/ontology#Course_21">
+    <rdf:type rdf:resource="http://www.elearning-platform.org/ontology#Course"/>
+    <ontology:hasTitle>Introduction to Computer Vision - Intermediate</ontology:hasTitle>
+    <ontology:hasDescription>Learn Computer Vision in AI/ML. Suitable for Intermediate level. Master core concepts and practical applications.</ontology:hasDescription>
+    <ontology:hasDuration rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">41</ontology:hasDuration>
+    <ontology:hasDifficulty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</ontology:hasDifficulty>
+    <ontology:hasRating rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.1</ontology:hasRating>
+    <ontology:hasPrice rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">121</ontology:hasPrice>
+    <ontology:suitableForLevel rdf:resource="http://www.elearning-platform.org/ontology#Intermediate_Level"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.elearning-platform.org/ontology#Course_120">
+    <rdf:type rdf:resource="http://www.elearning-platform.org/ontology#Course"/>
+    <ontology:hasTitle>Complete Guide to Big Data - Intermediate</ontology:hasTitle>
+    <ontology:hasDescription>Learn Big Data in Data Science. Suitable for Intermediate level. Master core concepts and practical applications.</ontology:hasDescription>
+    <ontology:hasDuration rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">60</ontology:hasDuration>
+    <ontology:hasDifficulty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</ontology:hasDifficulty>
+    <ontology:hasRating rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.0</ontology:hasRating>
+    <ontology:hasPrice rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">220</ontology:hasPrice>
+    <ontology:suitableForLevel rdf:resource="http://www.elearning-platform.org/ontology#Intermediate_Level"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.elearning-platform.org/ontology#Course_54">
+    <rdf:type rdf:resource="http://www.elearning-platform.org/ontology#Course"/>
+    <ontology:hasTitle>Practical to Backend - Beginner</ontology:hasTitle>
+    <ontology:hasDescription>Learn Backend in Web Dev. Suitable for Beginner level. Master core concepts and practical applications.</ontology:hasDescription>
+    <ontology:hasDuration rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">74</ontology:hasDuration>
+    <ontology:hasDifficulty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ontology:hasDifficulty>
+    <ontology:hasRating rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.4</ontology:hasRating>
+    <ontology:hasPrice rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">154</ontology:hasPrice>
+    <ontology:suitableForLevel rdf:resource="http://www.elearning-platform.org/ontology#Beginner_Level"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.elearning-platform.org/ontology#Course_41">
+    <rdf:type rdf:resource="http://www.elearning-platform.org/ontology#Course"/>
+    <ontology:hasTitle>Introduction to NLP - Advanced</ontology:hasTitle>
+    <ontology:hasDescription>Learn NLP in AI/ML. Suitable for Advanced level. Master core concepts and practical applications.</ontology:hasDescription>
+    <ontology:hasDuration rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">61</ontology:hasDuration>
+    <ontology:hasDifficulty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</ontology:hasDifficulty>
+    <ontology:hasRating rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.1</ontology:hasRating>
+    <ontology:hasPrice rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">141</ontology:hasPrice>
+    <ontology:suitableForLevel rdf:resource="http://www.elearning-platform.org/ontology#Advanced_Level"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.elearning-platform.org/ontology#Course_75">
+    <rdf:type rdf:resource="http://www.elearning-platform.org/ontology#Course"/>
+    <ontology:hasTitle>Advanced to Full Stack - Intermediate</ontology:hasTitle>
+    <ontology:hasDescription>Learn Full Stack in Web Dev. Suitable for Intermediate level. Master core concepts and practical applications.</ontology:hasDescription>
+    <ontology:hasDuration rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">95</ontology:hasDuration>
+    <ontology:hasDifficulty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</ontology:hasDifficulty>
+    <ontology:hasRating rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.5</ontology:hasRating>
+    <ontology:hasPrice rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">175</ontology:hasPrice>
+    <ontology:suitableForLevel rdf:resource="http://www.elearning-platform.org/ontology#Intermediate_Level"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.elearning-platform.org/ontology#IntermediateStudent">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:subClassOf rdf:resource="http://www.elearning-platform.org/ontology#Student"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.elearning-platform.org/ontology#Course_74">
+    <rdf:type rdf:resource="http://www.elearning-platform.org/ontology#Course"/>
+    <ontology:hasTitle>Practical to Full Stack - Intermediate</ontology:hasTitle>
+    <ontology:hasDescription>Learn Full Stack in Web Dev. Suitable for Intermediate level. Master core concepts and practical applications.</ontology:hasDescription>
+    <ontology:hasDuration rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">94</ontology:hasDuration>
+    <ontology:hasDifficulty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</ontology:hasDifficulty>
+    <ontology:hasRating rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.4</ontology:hasRating>
+    <ontology:hasPrice rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">174</ontology:hasPrice>
+    <ontology:suitableForLevel rdf:resource="http://www.elearning-platform.org/ontology#Intermediate_Level"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.elearning-platform.org/ontology#Course_61">
+    <rdf:type rdf:resource="http://www.elearning-platform.org/ontology#Course"/>
+    <ontology:hasTitle>Introduction to Web Security - Beginner</ontology:hasTitle>
+    <ontology:hasDescription>Learn Web Security in Web Dev. Suitable for Beginner level. Master core concepts and practical applications.</ontology:hasDescription>
+    <ontology:hasDuration rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">81</ontology:hasDuration>
+    <ontology:hasDifficulty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ontology:hasDifficulty>
+    <ontology:hasRating rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.1</ontology:hasRating>
+    <ontology:hasPrice rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">161</ontology:hasPrice>
+    <ontology:suitableForLevel rdf:resource="http://www.elearning-platform.org/ontology#Beginner_Level"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.elearning-platform.org/ontology#Introduction_to_Python">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+    <rdf:type rdf:resource="http://www.elearning-platform.org/ontology#BeginnerCourse"/>
+    <ontology:helpsAchieve rdf:resource="http://www.elearning-platform.org/ontology#Change_Career_To_Tech"/>
+    <ontology:suitableForLevel rdf:resource="http://www.elearning-platform.org/ontology#Beginner_Level"/>
+    <ontology:teachesSkill rdf:resource="http://www.elearning-platform.org/ontology#Python_Programming"/>
+    <ontology:hasDifficulty rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">1</ontology:hasDifficulty>
+    <ontology:hasDuration rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">40</ontology:hasDuration>
+    <ontology:hasPrice rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">150.0</ontology:hasPrice>
+    <ontology:hasRating rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">4.5</ontology:hasRating>
+    <ontology:hasTitle>Introduction to Python Programming</ontology:hasTitle>
+    <ontology:requiresMathLevel rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">0</ontology:requiresMathLevel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.elearning-platform.org/ontology#Course_105">
+    <rdf:type rdf:resource="http://www.elearning-platform.org/ontology#Course"/>
+    <ontology:hasTitle>Introduction to Data Mining - Beginner</ontology:hasTitle>
+    <ontology:hasDescription>Learn Data Mining in Data Science. Suitable for Beginner level. Master core concepts and practical applications.</ontology:hasDescription>
+    <ontology:hasDuration rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">45</ontology:hasDuration>
+    <ontology:hasDifficulty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ontology:hasDifficulty>
+    <ontology:hasRating rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.5</ontology:hasRating>
+    <ontology:hasPrice rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">205</ontology:hasPrice>
+    <ontology:suitableForLevel rdf:resource="http://www.elearning-platform.org/ontology#Beginner_Level"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.elearning-platform.org/ontology#hasDifficulty">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#DatatypeProperty"/>
+    <rdfs:domain rdf:resource="http://www.elearning-platform.org/ontology#Course"/>
+    <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#integer"/>
+    <rdfs:comment>1-5</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.elearning-platform.org/ontology#Course_97">
+    <rdf:type rdf:resource="http://www.elearning-platform.org/ontology#Course"/>
+    <ontology:hasTitle>Introduction to Data Visualization - Beginner</ontology:hasTitle>
+    <ontology:hasDescription>Learn Data Visualization in Data Science. Suitable for Beginner level. Master core concepts and practical applications.</ontology:hasDescription>
+    <ontology:hasDuration rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">37</ontology:hasDuration>
+    <ontology:hasDifficulty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ontology:hasDifficulty>
+    <ontology:hasRating rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.7</ontology:hasRating>
+    <ontology:hasPrice rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">197</ontology:hasPrice>
+    <ontology:suitableForLevel rdf:resource="http://www.elearning-platform.org/ontology#Beginner_Level"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N6aa28ccb6e5e4701868b1677d64434ad">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Restriction"/>
+    <owl:onProperty rdf:resource="http://www.elearning-platform.org/ontology#requiresSkill"/>
+    <owl:minQualifiedCardinality rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">2</owl:minQualifiedCardinality>
+    <owl:onClass rdf:resource="http://www.elearning-platform.org/ontology#Skill"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.elearning-platform.org/ontology#Course_88">
+    <rdf:type rdf:resource="http://www.elearning-platform.org/ontology#Course"/>
+    <ontology:hasTitle>Complete Guide to Backend - Advanced</ontology:hasTitle>
+    <ontology:hasDescription>Learn Backend in Web Dev. Suitable for Advanced level. Master core concepts and practical applications.</ontology:hasDescription>
+    <ontology:hasDuration rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">28</ontology:hasDuration>
+    <ontology:hasDifficulty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</ontology:hasDifficulty>
+    <ontology:hasRating rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.8</ontology:hasRating>
+    <ontology:hasPrice rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">188</ontology:hasPrice>
+    <ontology:suitableForLevel rdf:resource="http://www.elearning-platform.org/ontology#Advanced_Level"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.elearning-platform.org/ontology#Course_72">
+    <rdf:type rdf:resource="http://www.elearning-platform.org/ontology#Course"/>
+    <ontology:hasTitle>Complete Guide to Backend - Intermediate</ontology:hasTitle>
+    <ontology:hasDescription>Learn Backend in Web Dev. Suitable for Intermediate level. Master core concepts and practical applications.</ontology:hasDescription>
+    <ontology:hasDuration rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">92</ontology:hasDuration>
+    <ontology:hasDifficulty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</ontology:hasDifficulty>
+    <ontology:hasRating rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.2</ontology:hasRating>
+    <ontology:hasPrice rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">172</ontology:hasPrice>
+    <ontology:suitableForLevel rdf:resource="http://www.elearning-platform.org/ontology#Intermediate_Level"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N09870b31244240bdb4f7dfcd9d88319c">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Restriction"/>
+    <owl:onProperty rdf:resource="http://www.elearning-platform.org/ontology#suitableForLevel"/>
+    <owl:someValuesFrom rdf:resource="http://www.elearning-platform.org/ontology#Advanced"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.elearning-platform.org/ontology#Course_85">
+    <rdf:type rdf:resource="http://www.elearning-platform.org/ontology#Course"/>
+    <ontology:hasTitle>Introduction to Backend - Advanced</ontology:hasTitle>
+    <ontology:hasDescription>Learn Backend in Web Dev. Suitable for Advanced level. Master core concepts and practical applications.</ontology:hasDescription>
+    <ontology:hasDuration rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">25</ontology:hasDuration>
+    <ontology:hasDifficulty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</ontology:hasDifficulty>
+    <ontology:hasRating rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.5</ontology:hasRating>
+    <ontology:hasPrice rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">185</ontology:hasPrice>
+    <ontology:suitableForLevel rdf:resource="http://www.elearning-platform.org/ontology#Advanced_Level"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.elearning-platform.org/ontology#Course_39">
+    <rdf:type rdf:resource="http://www.elearning-platform.org/ontology#Course"/>
+    <ontology:hasTitle>Advanced to Computer Vision - Advanced</ontology:hasTitle>
+    <ontology:hasDescription>Learn Computer Vision in AI/ML. Suitable for Advanced level. Master core concepts and practical applications.</ontology:hasDescription>
+    <ontology:hasDuration rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">59</ontology:hasDuration>
+    <ontology:hasDifficulty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</ontology:hasDifficulty>
+    <ontology:hasRating rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.9</ontology:hasRating>
+    <ontology:hasPrice rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">139</ontology:hasPrice>
+    <ontology:suitableForLevel rdf:resource="http://www.elearning-platform.org/ontology#Advanced_Level"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.elearning-platform.org/ontology#Course_24">
+    <rdf:type rdf:resource="http://www.elearning-platform.org/ontology#Course"/>
+    <ontology:hasTitle>Complete Guide to Computer Vision - Intermediate</ontology:hasTitle>
+    <ontology:hasDescription>Learn Computer Vision in AI/ML. Suitable for Intermediate level. Master core concepts and practical applications.</ontology:hasDescription>
+    <ontology:hasDuration rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">44</ontology:hasDuration>
+    <ontology:hasDifficulty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</ontology:hasDifficulty>
+    <ontology:hasRating rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.4</ontology:hasRating>
+    <ontology:hasPrice rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">124</ontology:hasPrice>
+    <ontology:suitableForLevel rdf:resource="http://www.elearning-platform.org/ontology#Intermediate_Level"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.elearning-platform.org/ontology#hasRating">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#DatatypeProperty"/>
+    <rdfs:domain rdf:resource="http://www.elearning-platform.org/ontology#Course"/>
+    <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#decimal"/>
+    <rdfs:comment>0-5 étoiles</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.elearning-platform.org/ontology#Course_77">
+    <rdf:type rdf:resource="http://www.elearning-platform.org/ontology#Course"/>
+    <ontology:hasTitle>Introduction to Web Security - Intermediate</ontology:hasTitle>
+    <ontology:hasDescription>Learn Web Security in Web Dev. Suitable for Intermediate level. Master core concepts and practical applications.</ontology:hasDescription>
+    <ontology:hasDuration rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">97</ontology:hasDuration>
+    <ontology:hasDifficulty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</ontology:hasDifficulty>
+    <ontology:hasRating rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.7</ontology:hasRating>
+    <ontology:hasPrice rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">177</ontology:hasPrice>
+    <ontology:suitableForLevel rdf:resource="http://www.elearning-platform.org/ontology#Intermediate_Level"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.elearning-platform.org/ontology#Course_3">
+    <rdf:type rdf:resource="http://www.elearning-platform.org/ontology#Course"/>
+    <ontology:hasTitle>Advanced to Neural Networks - Beginner</ontology:hasTitle>
+    <ontology:hasDescription>Learn Neural Networks in AI/ML. Suitable for Beginner level. Master core concepts and practical applications.</ontology:hasDescription>
+    <ontology:hasDuration rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">23</ontology:hasDuration>
+    <ontology:hasDifficulty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ontology:hasDifficulty>
+    <ontology:hasRating rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.3</ontology:hasRating>
+    <ontology:hasPrice rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">103</ontology:hasPrice>
+    <ontology:suitableForLevel rdf:resource="http://www.elearning-platform.org/ontology#Beginner_Level"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.elearning-platform.org/ontology#Intermediate">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:subClassOf rdf:resource="http://www.elearning-platform.org/ontology#Level"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.elearning-platform.org/ontology#Linear_Algebra">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.elearning-platform.org/ontology#Course_59">
+    <rdf:type rdf:resource="http://www.elearning-platform.org/ontology#Course"/>
+    <ontology:hasTitle>Advanced to Full Stack - Beginner</ontology:hasTitle>
+    <ontology:hasDescription>Learn Full Stack in Web Dev. Suitable for Beginner level. Master core concepts and practical applications.</ontology:hasDescription>
+    <ontology:hasDuration rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">79</ontology:hasDuration>
+    <ontology:hasDifficulty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ontology:hasDifficulty>
+    <ontology:hasRating rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.9</ontology:hasRating>
+    <ontology:hasPrice rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">159</ontology:hasPrice>
+    <ontology:suitableForLevel rdf:resource="http://www.elearning-platform.org/ontology#Beginner_Level"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.elearning-platform.org/ontology#Course_107">
+    <rdf:type rdf:resource="http://www.elearning-platform.org/ontology#Course"/>
+    <ontology:hasTitle>Advanced to Data Mining - Beginner</ontology:hasTitle>
+    <ontology:hasDescription>Learn Data Mining in Data Science. Suitable for Beginner level. Master core concepts and practical applications.</ontology:hasDescription>
+    <ontology:hasDuration rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">47</ontology:hasDuration>
+    <ontology:hasDifficulty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ontology:hasDifficulty>
+    <ontology:hasRating rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.7</ontology:hasRating>
+    <ontology:hasPrice rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">207</ontology:hasPrice>
+    <ontology:suitableForLevel rdf:resource="http://www.elearning-platform.org/ontology#Beginner_Level"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.elearning-platform.org/ontology#BeginnerCourse">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <owl:equivalentClass rdf:nodeID="Ndab0ca9f17444d8c92ec994a66a27850"/>
+    <rdfs:subClassOf rdf:resource="http://www.elearning-platform.org/ontology#Course"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.elearning-platform.org/ontology#PersonalGoal">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:subClassOf rdf:resource="http://www.elearning-platform.org/ontology#LearningGoal"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.elearning-platform.org/ontology#Course_71">
+    <rdf:type rdf:resource="http://www.elearning-platform.org/ontology#Course"/>
+    <ontology:hasTitle>Advanced to Backend - Intermediate</ontology:hasTitle>
+    <ontology:hasDescription>Learn Backend in Web Dev. Suitable for Intermediate level. Master core concepts and practical applications.</ontology:hasDescription>
+    <ontology:hasDuration rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">91</ontology:hasDuration>
+    <ontology:hasDifficulty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</ontology:hasDifficulty>
+    <ontology:hasRating rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.1</ontology:hasRating>
+    <ontology:hasPrice rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">171</ontology:hasPrice>
+    <ontology:suitableForLevel rdf:resource="http://www.elearning-platform.org/ontology#Intermediate_Level"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.elearning-platform.org/ontology#Course_51">
+    <rdf:type rdf:resource="http://www.elearning-platform.org/ontology#Course"/>
+    <ontology:hasTitle>Advanced to Frontend - Beginner</ontology:hasTitle>
+    <ontology:hasDescription>Learn Frontend in Web Dev. Suitable for Beginner level. Master core concepts and practical applications.</ontology:hasDescription>
+    <ontology:hasDuration rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">71</ontology:hasDuration>
+    <ontology:hasDifficulty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ontology:hasDifficulty>
+    <ontology:hasRating rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.1</ontology:hasRating>
+    <ontology:hasPrice rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">151</ontology:hasPrice>
+    <ontology:suitableForLevel rdf:resource="http://www.elearning-platform.org/ontology#Beginner_Level"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.elearning-platform.org/ontology#Course_44">
+    <rdf:type rdf:resource="http://www.elearning-platform.org/ontology#Course"/>
+    <ontology:hasTitle>Complete Guide to NLP - Advanced</ontology:hasTitle>
+    <ontology:hasDescription>Learn NLP in AI/ML. Suitable for Advanced level. Master core concepts and practical applications.</ontology:hasDescription>
+    <ontology:hasDuration rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">64</ontology:hasDuration>
+    <ontology:hasDifficulty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</ontology:hasDifficulty>
+    <ontology:hasRating rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.4</ontology:hasRating>
+    <ontology:hasPrice rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">144</ontology:hasPrice>
+    <ontology:suitableForLevel rdf:resource="http://www.elearning-platform.org/ontology#Advanced_Level"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Ndab0ca9f17444d8c92ec994a66a27850">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <owl:intersectionOf rdf:nodeID="N8474e92d0c1641559b86260e455a1d2f"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.elearning-platform.org/ontology#Course_84">
+    <rdf:type rdf:resource="http://www.elearning-platform.org/ontology#Course"/>
+    <ontology:hasTitle>Complete Guide to Frontend - Advanced</ontology:hasTitle>
+    <ontology:hasDescription>Learn Frontend in Web Dev. Suitable for Advanced level. Master core concepts and practical applications.</ontology:hasDescription>
+    <ontology:hasDuration rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">24</ontology:hasDuration>
+    <ontology:hasDifficulty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</ontology:hasDifficulty>
+    <ontology:hasRating rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.4</ontology:hasRating>
+    <ontology:hasPrice rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">184</ontology:hasPrice>
+    <ontology:suitableForLevel rdf:resource="http://www.elearning-platform.org/ontology#Advanced_Level"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.elearning-platform.org/ontology#Course_32">
+    <rdf:type rdf:resource="http://www.elearning-platform.org/ontology#Course"/>
+    <ontology:hasTitle>Complete Guide to Reinforcement Learning - Intermediate</ontology:hasTitle>
+    <ontology:hasDescription>Learn Reinforcement Learning in AI/ML. Suitable for Intermediate level. Master core concepts and practical applications.</ontology:hasDescription>
+    <ontology:hasDuration rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">52</ontology:hasDuration>
+    <ontology:hasDifficulty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</ontology:hasDifficulty>
+    <ontology:hasRating rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.2</ontology:hasRating>
+    <ontology:hasPrice rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">132</ontology:hasPrice>
+    <ontology:suitableForLevel rdf:resource="http://www.elearning-platform.org/ontology#Intermediate_Level"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.elearning-platform.org/ontology#Course_114">
+    <rdf:type rdf:resource="http://www.elearning-platform.org/ontology#Course"/>
+    <ontology:hasTitle>Practical to Data Visualization - Intermediate</ontology:hasTitle>
+    <ontology:hasDescription>Learn Data Visualization in Data Science. Suitable for Intermediate level. Master core concepts and practical applications.</ontology:hasDescription>
+    <ontology:hasDuration rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">54</ontology:hasDuration>
+    <ontology:hasDifficulty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</ontology:hasDifficulty>
+    <ontology:hasRating rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.4</ontology:hasRating>
+    <ontology:hasPrice rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">214</ontology:hasPrice>
+    <ontology:suitableForLevel rdf:resource="http://www.elearning-platform.org/ontology#Intermediate_Level"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.elearning-platform.org/ontology#Course_95">
+    <rdf:type rdf:resource="http://www.elearning-platform.org/ontology#Course"/>
+    <ontology:hasTitle>Advanced to Web Security - Advanced</ontology:hasTitle>
+    <ontology:hasDescription>Learn Web Security in Web Dev. Suitable for Advanced level. Master core concepts and practical applications.</ontology:hasDescription>
+    <ontology:hasDuration rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">35</ontology:hasDuration>
+    <ontology:hasDifficulty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</ontology:hasDifficulty>
+    <ontology:hasRating rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.5</ontology:hasRating>
+    <ontology:hasPrice rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">195</ontology:hasPrice>
+    <ontology:suitableForLevel rdf:resource="http://www.elearning-platform.org/ontology#Advanced_Level"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.elearning-platform.org/ontology#Course_66">
+    <rdf:type rdf:resource="http://www.elearning-platform.org/ontology#Course"/>
+    <ontology:hasTitle>Practical to Frontend - Intermediate</ontology:hasTitle>
+    <ontology:hasDescription>Learn Frontend in Web Dev. Suitable for Intermediate level. Master core concepts and practical applications.</ontology:hasDescription>
+    <ontology:hasDuration rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">86</ontology:hasDuration>
+    <ontology:hasDifficulty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</ontology:hasDifficulty>
+    <ontology:hasRating rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.6</ontology:hasRating>
+    <ontology:hasPrice rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">166</ontology:hasPrice>
+    <ontology:suitableForLevel rdf:resource="http://www.elearning-platform.org/ontology#Intermediate_Level"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.elearning-platform.org/ontology#Course_9">
+    <rdf:type rdf:resource="http://www.elearning-platform.org/ontology#Course"/>
+    <ontology:hasTitle>Introduction to NLP - Beginner</ontology:hasTitle>
+    <ontology:hasDescription>Learn NLP in AI/ML. Suitable for Beginner level. Master core concepts and practical applications.</ontology:hasDescription>
+    <ontology:hasDuration rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">29</ontology:hasDuration>
+    <ontology:hasDifficulty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ontology:hasDifficulty>
+    <ontology:hasRating rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.9</ontology:hasRating>
+    <ontology:hasPrice rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">109</ontology:hasPrice>
+    <ontology:suitableForLevel rdf:resource="http://www.elearning-platform.org/ontology#Beginner_Level"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.elearning-platform.org/ontology#Beginner_Level">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N45078f9af9f647f8a6b22de7de6ddf78">
+    <rdf:first rdf:nodeID="N6aa28ccb6e5e4701868b1677d64434ad"/>
+    <rdf:rest rdf:nodeID="Nb447fe9a22b24b7f878161e2f8c0a613"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.elearning-platform.org/ontology#Course_30">
+    <rdf:type rdf:resource="http://www.elearning-platform.org/ontology#Course"/>
+    <ontology:hasTitle>Practical to Reinforcement Learning - Intermediate</ontology:hasTitle>
+    <ontology:hasDescription>Learn Reinforcement Learning in AI/ML. Suitable for Intermediate level. Master core concepts and practical applications.</ontology:hasDescription>
+    <ontology:hasDuration rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">50</ontology:hasDuration>
+    <ontology:hasDifficulty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</ontology:hasDifficulty>
+    <ontology:hasRating rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.0</ontology:hasRating>
+    <ontology:hasPrice rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">130</ontology:hasPrice>
+    <ontology:suitableForLevel rdf:resource="http://www.elearning-platform.org/ontology#Intermediate_Level"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.elearning-platform.org/ontology#Data_Analysis">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.elearning-platform.org/ontology#requiresMathLevel">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#DatatypeProperty"/>
+    <rdfs:domain rdf:resource="http://www.elearning-platform.org/ontology#Course"/>
+    <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#integer"/>
+    <rdfs:comment>0-5</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.elearning-platform.org/ontology#AcademicGoal">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:subClassOf rdf:resource="http://www.elearning-platform.org/ontology#LearningGoal"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.elearning-platform.org/ontology#Course">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.elearning-platform.org/ontology#helpsAchieve">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+    <rdfs:domain rdf:resource="http://www.elearning-platform.org/ontology#Course"/>
+    <rdfs:range rdf:resource="http://www.elearning-platform.org/ontology#LearningGoal"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.elearning-platform.org/ontology#ML_Without_Heavy_Math">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+    <rdf:type rdf:resource="http://www.elearning-platform.org/ontology#IntermediateCourse"/>
+    <ontology:helpsAchieve rdf:resource="http://www.elearning-platform.org/ontology#Learn_AI"/>
+    <ontology:requiresSkill rdf:resource="http://www.elearning-platform.org/ontology#Python_Programming"/>
+    <ontology:suitableForLevel rdf:resource="http://www.elearning-platform.org/ontology#Intermediate_Level"/>
+    <ontology:teachesSkill rdf:resource="http://www.elearning-platform.org/ontology#Machine_Learning"/>
+    <ontology:hasDuration rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">50</ontology:hasDuration>
+    <ontology:hasRating rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">4.8</ontology:hasRating>
+    <ontology:hasTitle>Practical Machine Learning: No Math Required</ontology:hasTitle>
+    <ontology:requiresMathLevel rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">1</ontology:requiresMathLevel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.elearning-platform.org/ontology#Course_12">
+    <rdf:type rdf:resource="http://www.elearning-platform.org/ontology#Course"/>
+    <ontology:hasTitle>Complete Guide to NLP - Beginner</ontology:hasTitle>
+    <ontology:hasDescription>Learn NLP in AI/ML. Suitable for Beginner level. Master core concepts and practical applications.</ontology:hasDescription>
+    <ontology:hasDuration rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">32</ontology:hasDuration>
+    <ontology:hasDifficulty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ontology:hasDifficulty>
+    <ontology:hasRating rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.2</ontology:hasRating>
+    <ontology:hasPrice rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">112</ontology:hasPrice>
+    <ontology:suitableForLevel rdf:resource="http://www.elearning-platform.org/ontology#Beginner_Level"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.elearning-platform.org/ontology#Course_10">
+    <rdf:type rdf:resource="http://www.elearning-platform.org/ontology#Course"/>
+    <ontology:hasTitle>Practical to NLP - Beginner</ontology:hasTitle>
+    <ontology:hasDescription>Learn NLP in AI/ML. Suitable for Beginner level. Master core concepts and practical applications.</ontology:hasDescription>
+    <ontology:hasDuration rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">30</ontology:hasDuration>
+    <ontology:hasDifficulty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ontology:hasDifficulty>
+    <ontology:hasRating rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.0</ontology:hasRating>
+    <ontology:hasPrice rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">110</ontology:hasPrice>
+    <ontology:suitableForLevel rdf:resource="http://www.elearning-platform.org/ontology#Beginner_Level"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.elearning-platform.org/ontology#Course_93">
+    <rdf:type rdf:resource="http://www.elearning-platform.org/ontology#Course"/>
+    <ontology:hasTitle>Introduction to Web Security - Advanced</ontology:hasTitle>
+    <ontology:hasDescription>Learn Web Security in Web Dev. Suitable for Advanced level. Master core concepts and practical applications.</ontology:hasDescription>
+    <ontology:hasDuration rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">33</ontology:hasDuration>
+    <ontology:hasDifficulty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</ontology:hasDifficulty>
+    <ontology:hasRating rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.3</ontology:hasRating>
+    <ontology:hasPrice rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">193</ontology:hasPrice>
+    <ontology:suitableForLevel rdf:resource="http://www.elearning-platform.org/ontology#Advanced_Level"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.elearning-platform.org/ontology#Course_25">
+    <rdf:type rdf:resource="http://www.elearning-platform.org/ontology#Course"/>
+    <ontology:hasTitle>Introduction to NLP - Intermediate</ontology:hasTitle>
+    <ontology:hasDescription>Learn NLP in AI/ML. Suitable for Intermediate level. Master core concepts and practical applications.</ontology:hasDescription>
+    <ontology:hasDuration rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">45</ontology:hasDuration>
+    <ontology:hasDifficulty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</ontology:hasDifficulty>
+    <ontology:hasRating rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.5</ontology:hasRating>
+    <ontology:hasPrice rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">125</ontology:hasPrice>
+    <ontology:suitableForLevel rdf:resource="http://www.elearning-platform.org/ontology#Intermediate_Level"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.elearning-platform.org/ontology#hasPrerequisite">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#TransitiveProperty"/>
+    <rdfs:domain rdf:resource="http://www.elearning-platform.org/ontology#Course"/>
+    <rdfs:range rdf:resource="http://www.elearning-platform.org/ontology#Course"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.elearning-platform.org/ontology#Level">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.elearning-platform.org/ontology#Course_34">
+    <rdf:type rdf:resource="http://www.elearning-platform.org/ontology#Course"/>
+    <ontology:hasTitle>Practical to Neural Networks - Advanced</ontology:hasTitle>
+    <ontology:hasDescription>Learn Neural Networks in AI/ML. Suitable for Advanced level. Master core concepts and practical applications.</ontology:hasDescription>
+    <ontology:hasDuration rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">54</ontology:hasDuration>
+    <ontology:hasDifficulty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</ontology:hasDifficulty>
+    <ontology:hasRating rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.4</ontology:hasRating>
+    <ontology:hasPrice rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">134</ontology:hasPrice>
+    <ontology:suitableForLevel rdf:resource="http://www.elearning-platform.org/ontology#Advanced_Level"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.elearning-platform.org/ontology#suitableForLevel">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#FunctionalProperty"/>
+    <rdfs:domain rdf:resource="http://www.elearning-platform.org/ontology#Course"/>
+    <rdfs:range rdf:resource="http://www.elearning-platform.org/ontology#Level"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.elearning-platform.org/ontology#Machine_Learning_Basics">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+    <rdf:type rdf:resource="http://www.elearning-platform.org/ontology#IntermediateCourse"/>
+    <ontology:helpsAchieve rdf:resource="http://www.elearning-platform.org/ontology#Become_Data_Scientist"/>
+    <ontology:requiresSkill rdf:resource="http://www.elearning-platform.org/ontology#Python_Programming"/>
+    <ontology:requiresSkill rdf:resource="http://www.elearning-platform.org/ontology#Statistics"/>
+    <ontology:suitableForLevel rdf:resource="http://www.elearning-platform.org/ontology#Intermediate_Level"/>
+    <ontology:teachesSkill rdf:resource="http://www.elearning-platform.org/ontology#Machine_Learning"/>
+    <ontology:hasDuration rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">60</ontology:hasDuration>
+    <ontology:hasRating rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">4.7</ontology:hasRating>
+    <ontology:hasTitle>Machine Learning for Beginners</ontology:hasTitle>
+    <ontology:requiresMathLevel rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">3</ontology:requiresMathLevel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.elearning-platform.org/ontology#Learn_AI">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.elearning-platform.org/ontology#CareerGoal">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:subClassOf rdf:resource="http://www.elearning-platform.org/ontology#LearningGoal"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.elearning-platform.org/ontology#BeginnerStudent">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:subClassOf rdf:resource="http://www.elearning-platform.org/ontology#Student"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.elearning-platform.org/ontology#ProgrammingSkill">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:subClassOf rdf:resource="http://www.elearning-platform.org/ontology#TechnicalSkill"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.elearning-platform.org/ontology#SoftSkill">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:subClassOf rdf:resource="http://www.elearning-platform.org/ontology#Skill"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.elearning-platform.org/ontology#Course_57">
+    <rdf:type rdf:resource="http://www.elearning-platform.org/ontology#Course"/>
+    <ontology:hasTitle>Introduction to Full Stack - Beginner</ontology:hasTitle>
+    <ontology:hasDescription>Learn Full Stack in Web Dev. Suitable for Beginner level. Master core concepts and practical applications.</ontology:hasDescription>
+    <ontology:hasDuration rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">77</ontology:hasDuration>
+    <ontology:hasDifficulty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ontology:hasDifficulty>
+    <ontology:hasRating rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.7</ontology:hasRating>
+    <ontology:hasPrice rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">157</ontology:hasPrice>
+    <ontology:suitableForLevel rdf:resource="http://www.elearning-platform.org/ontology#Beginner_Level"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.elearning-platform.org/ontology#Course_58">
+    <rdf:type rdf:resource="http://www.elearning-platform.org/ontology#Course"/>
+    <ontology:hasTitle>Practical to Full Stack - Beginner</ontology:hasTitle>
+    <ontology:hasDescription>Learn Full Stack in Web Dev. Suitable for Beginner level. Master core concepts and practical applications.</ontology:hasDescription>
+    <ontology:hasDuration rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">78</ontology:hasDuration>
+    <ontology:hasDifficulty rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ontology:hasDifficulty>
+    <ontology:hasRating rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.8</ontology:hasRating>
+    <ontology:hasPrice rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">158</ontology:hasPrice>
+    <ontology:suitableForLevel rdf:resource="http://www.elearning-platform.org/ontology#Beginner_Level"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.elearning-platform.org/ontology#Communication">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.elearning-platform.org/ontology#Student">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.elearning-platform.org/ontology#Intermediate_Level">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.elearning-platform.org/ontology#requiresSkill">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+    <rdfs:domain rdf:resource="http://www.elearning-platform.org/ontology#Course"/>
+    <rdfs:range rdf:resource="http://www.elearning-platform.org/ontology#Skill"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N4d1c0cf9c7fd4a8e8a7b135f7869e496">
+    <rdf:first rdf:nodeID="Nf56885edb6004eaf9388562b32e00202"/>
+    <rdf:rest rdf:nodeID="N1307a2862910446e91c575e277829835"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.elearning-platform.org/ontology#Deep_Learning">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.elearning-platform.org/ontology#Problem_Solving">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N1307a2862910446e91c575e277829835">
+    <rdf:first rdf:nodeID="N8a042f415157440999068127b38c5b40"/>
+    <rdf:rest rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#nil"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.elearning-platform.org/ontology#Python_Programming">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.elearning-platform.org/ontology#AdvancedStudent">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:subClassOf rdf:resource="http://www.elearning-platform.org/ontology#Student"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.elearning-platform.org/ontology#Machine_Learning">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.elearning-platform.org/ontology#WebDevelopmentSkill">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:subClassOf rdf:resource="http://www.elearning-platform.org/ontology#TechnicalSkill"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.elearning-platform.org/ontology#Skill">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.elearning-platform.org/ontology#LearningGoal">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Ndf888b9f996440ca813766bbb67f9fc9">
+    <rdf:first rdf:nodeID="N40d5bb7849ae4483b78e9aa994e71864"/>
+    <rdf:rest rdf:nodeID="N45078f9af9f647f8a6b22de7de6ddf78"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.elearning-platform.org/ontology#">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Ontology"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.elearning-platform.org/ontology#Change_Career_To_Tech">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.elearning-platform.org/ontology#Database_Management">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.elearning-platform.org/ontology#recommendedFor">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+    <rdfs:domain rdf:resource="http://www.elearning-platform.org/ontology#Course"/>
+    <rdfs:range rdf:resource="http://www.elearning-platform.org/ontology#Student"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N178df1dc023e4d94b343ca7aed366378">
+    <rdf:first rdf:resource="http://www.elearning-platform.org/ontology#Course"/>
+    <rdf:rest rdf:nodeID="Ndf888b9f996440ca813766bbb67f9fc9"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.elearning-platform.org/ontology#teachesSkill">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+    <rdfs:domain rdf:resource="http://www.elearning-platform.org/ontology#Course"/>
+    <rdfs:range rdf:resource="http://www.elearning-platform.org/ontology#Skill"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.elearning-platform.org/ontology#Statistics">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,1805 @@
+[
+  {
+    "id": "Course_1",
+    "title": "Introduction to Python Programming",
+    "description": "Learn Introduction to Python Programming. Master Python, Programming with hands-on projects and real-world examples. Suitable for Beginner level students.",
+    "level": "Beginner",
+    "category": "Programming",
+    "skills": [
+      "Python",
+      "Programming"
+    ],
+    "duration": 40,
+    "difficulty": 1,
+    "rating": 4.8,
+    "price": 110
+  },
+  {
+    "id": "Course_2",
+    "title": "Advanced Python Programming",
+    "description": "Learn Advanced Python Programming. Master Python, OOP with hands-on projects and real-world examples. Suitable for Advanced level students.",
+    "level": "Advanced",
+    "category": "Programming",
+    "skills": [
+      "Python",
+      "OOP"
+    ],
+    "duration": 60,
+    "difficulty": 3,
+    "rating": 4.7,
+    "price": 120
+  },
+  {
+    "id": "Course_3",
+    "title": "Python for Data Science",
+    "description": "Learn Python for Data Science. Master Python, Data Analysis with hands-on projects and real-world examples. Suitable for Intermediate level students.",
+    "level": "Intermediate",
+    "category": "Data Science",
+    "skills": [
+      "Python",
+      "Data Analysis"
+    ],
+    "duration": 43,
+    "difficulty": 2,
+    "rating": 4.6,
+    "price": 130
+  },
+  {
+    "id": "Course_4",
+    "title": "Machine Learning with Python",
+    "description": "Learn Machine Learning with Python. Master Machine Learning, Python with hands-on projects and real-world examples. Suitable for Intermediate level students.",
+    "level": "Intermediate",
+    "category": "AI/ML",
+    "skills": [
+      "Machine Learning",
+      "Python"
+    ],
+    "duration": 50,
+    "difficulty": 2,
+    "rating": 4.9,
+    "price": 140
+  },
+  {
+    "id": "Course_5",
+    "title": "Deep Learning Fundamentals",
+    "description": "Learn Deep Learning Fundamentals. Master Deep Learning, Neural Networks with hands-on projects and real-world examples. Suitable for Advanced level students.",
+    "level": "Advanced",
+    "category": "AI/ML",
+    "skills": [
+      "Deep Learning",
+      "Neural Networks"
+    ],
+    "duration": 70,
+    "difficulty": 3,
+    "rating": 4.8,
+    "price": 150
+  },
+  {
+    "id": "Course_6",
+    "title": "Computer Vision with Python",
+    "description": "Learn Computer Vision with Python. Master Computer Vision, Python with hands-on projects and real-world examples. Suitable for Advanced level students.",
+    "level": "Advanced",
+    "category": "AI/ML",
+    "skills": [
+      "Computer Vision",
+      "Python"
+    ],
+    "duration": 65,
+    "difficulty": 3,
+    "rating": 4.7,
+    "price": 160
+  },
+  {
+    "id": "Course_7",
+    "title": "Natural Language Processing",
+    "description": "Learn Natural Language Processing. Master NLP, Machine Learning with hands-on projects and real-world examples. Suitable for Advanced level students.",
+    "level": "Advanced",
+    "category": "AI/ML",
+    "skills": [
+      "NLP",
+      "Machine Learning"
+    ],
+    "duration": 60,
+    "difficulty": 3,
+    "rating": 4.6,
+    "price": 170
+  },
+  {
+    "id": "Course_8",
+    "title": "Introduction to Artificial Intelligence",
+    "description": "Learn Introduction to Artificial Intelligence. Master AI, Machine Learning with hands-on projects and real-world examples. Suitable for Beginner level students.",
+    "level": "Beginner",
+    "category": "AI/ML",
+    "skills": [
+      "AI",
+      "Machine Learning"
+    ],
+    "duration": 45,
+    "difficulty": 1,
+    "rating": 4.5,
+    "price": 180
+  },
+  {
+    "id": "Course_9",
+    "title": "Neural Networks from Scratch",
+    "description": "Learn Neural Networks from Scratch. Master Neural Networks, Python with hands-on projects and real-world examples. Suitable for Advanced level students.",
+    "level": "Advanced",
+    "category": "AI/ML",
+    "skills": [
+      "Neural Networks",
+      "Python"
+    ],
+    "duration": 55,
+    "difficulty": 3,
+    "rating": 4.7,
+    "price": 190
+  },
+  {
+    "id": "Course_10",
+    "title": "Reinforcement Learning",
+    "description": "Learn Reinforcement Learning. Master Reinforcement Learning, AI with hands-on projects and real-world examples. Suitable for Advanced level students.",
+    "level": "Advanced",
+    "category": "AI/ML",
+    "skills": [
+      "Reinforcement Learning",
+      "AI"
+    ],
+    "duration": 60,
+    "difficulty": 3,
+    "rating": 4.6,
+    "price": 200
+  },
+  {
+    "id": "Course_11",
+    "title": "Web Development Bootcamp",
+    "description": "Learn Web Development Bootcamp. Master HTML, CSS, JavaScript with hands-on projects and real-world examples. Suitable for Beginner level students.",
+    "level": "Beginner",
+    "category": "Web Dev",
+    "skills": [
+      "HTML",
+      "CSS",
+      "JavaScript"
+    ],
+    "duration": 80,
+    "difficulty": 1,
+    "rating": 4.8,
+    "price": 210
+  },
+  {
+    "id": "Course_12",
+    "title": "Frontend Development with React",
+    "description": "Learn Frontend Development with React. Master React, JavaScript with hands-on projects and real-world examples. Suitable for Intermediate level students.",
+    "level": "Intermediate",
+    "category": "Web Dev",
+    "skills": [
+      "React",
+      "JavaScript"
+    ],
+    "duration": 50,
+    "difficulty": 2,
+    "rating": 4.7,
+    "price": 220
+  },
+  {
+    "id": "Course_13",
+    "title": "Backend Development with Node.js",
+    "description": "Learn Backend Development with Node.js. Master Node.js, JavaScript with hands-on projects and real-world examples. Suitable for Intermediate level students.",
+    "level": "Intermediate",
+    "category": "Web Dev",
+    "skills": [
+      "Node.js",
+      "JavaScript"
+    ],
+    "duration": 55,
+    "difficulty": 2,
+    "rating": 4.6,
+    "price": 230
+  },
+  {
+    "id": "Course_14",
+    "title": "Full Stack Web Development",
+    "description": "Learn Full Stack Web Development. Master React, Node.js with hands-on projects and real-world examples. Suitable for Advanced level students.",
+    "level": "Advanced",
+    "category": "Web Dev",
+    "skills": [
+      "React",
+      "Node.js"
+    ],
+    "duration": 100,
+    "difficulty": 3,
+    "rating": 4.9,
+    "price": 240
+  },
+  {
+    "id": "Course_15",
+    "title": "JavaScript Essentials",
+    "description": "Learn JavaScript Essentials. Master JavaScript, Programming with hands-on projects and real-world examples. Suitable for Beginner level students.",
+    "level": "Beginner",
+    "category": "Web Dev",
+    "skills": [
+      "JavaScript",
+      "Programming"
+    ],
+    "duration": 35,
+    "difficulty": 1,
+    "rating": 4.5,
+    "price": 250
+  },
+  {
+    "id": "Course_16",
+    "title": "HTML and CSS Fundamentals",
+    "description": "Learn HTML and CSS Fundamentals. Master HTML, CSS with hands-on projects and real-world examples. Suitable for Beginner level students.",
+    "level": "Beginner",
+    "category": "Web Dev",
+    "skills": [
+      "HTML",
+      "CSS"
+    ],
+    "duration": 30,
+    "difficulty": 1,
+    "rating": 4.4,
+    "price": 260
+  },
+  {
+    "id": "Course_17",
+    "title": "Advanced CSS Techniques",
+    "description": "Learn Advanced CSS Techniques. Master CSS, Web Design with hands-on projects and real-world examples. Suitable for Intermediate level students.",
+    "level": "Intermediate",
+    "category": "Web Dev",
+    "skills": [
+      "CSS",
+      "Web Design"
+    ],
+    "duration": 40,
+    "difficulty": 2,
+    "rating": 4.5,
+    "price": 270
+  },
+  {
+    "id": "Course_18",
+    "title": "React Native Mobile Development",
+    "description": "Learn React Native Mobile Development. Master React, Mobile with hands-on projects and real-world examples. Suitable for Advanced level students.",
+    "level": "Advanced",
+    "category": "Web Dev",
+    "skills": [
+      "React",
+      "Mobile"
+    ],
+    "duration": 60,
+    "difficulty": 3,
+    "rating": 4.6,
+    "price": 280
+  },
+  {
+    "id": "Course_19",
+    "title": "Web Security Best Practices",
+    "description": "Learn Web Security Best Practices. Master Security, Web with hands-on projects and real-world examples. Suitable for Advanced level students.",
+    "level": "Advanced",
+    "category": "Web Dev",
+    "skills": [
+      "Security",
+      "Web"
+    ],
+    "duration": 45,
+    "difficulty": 3,
+    "rating": 4.7,
+    "price": 290
+  },
+  {
+    "id": "Course_20",
+    "title": "RESTful API Development",
+    "description": "Learn RESTful API Development. Master API, Backend with hands-on projects and real-world examples. Suitable for Intermediate level students.",
+    "level": "Intermediate",
+    "category": "Web Dev",
+    "skills": [
+      "API",
+      "Backend"
+    ],
+    "duration": 40,
+    "difficulty": 2,
+    "rating": 4.6,
+    "price": 300
+  },
+  {
+    "id": "Course_21",
+    "title": "Data Analysis with Python",
+    "description": "Learn Data Analysis with Python. Master Data Analysis, Python with hands-on projects and real-world examples. Suitable for Beginner level students.",
+    "level": "Beginner",
+    "category": "Data Science",
+    "skills": [
+      "Data Analysis",
+      "Python"
+    ],
+    "duration": 45,
+    "difficulty": 1,
+    "rating": 4.8,
+    "price": 310
+  },
+  {
+    "id": "Course_22",
+    "title": "Data Visualization Masterclass",
+    "description": "Learn Data Visualization Masterclass. Master Data Visualization, Python with hands-on projects and real-world examples. Suitable for Intermediate level students.",
+    "level": "Intermediate",
+    "category": "Data Science",
+    "skills": [
+      "Data Visualization",
+      "Python"
+    ],
+    "duration": 35,
+    "difficulty": 2,
+    "rating": 4.6,
+    "price": 320
+  },
+  {
+    "id": "Course_23",
+    "title": "Statistics for Data Science",
+    "description": "Learn Statistics for Data Science. Master Statistics, Data Analysis with hands-on projects and real-world examples. Suitable for Beginner level students.",
+    "level": "Beginner",
+    "category": "Data Science",
+    "skills": [
+      "Statistics",
+      "Data Analysis"
+    ],
+    "duration": 40,
+    "difficulty": 1,
+    "rating": 4.5,
+    "price": 330
+  },
+  {
+    "id": "Course_24",
+    "title": "Big Data with Hadoop",
+    "description": "Learn Big Data with Hadoop. Master Big Data, Hadoop with hands-on projects and real-world examples. Suitable for Advanced level students.",
+    "level": "Advanced",
+    "category": "Data Science",
+    "skills": [
+      "Big Data",
+      "Hadoop"
+    ],
+    "duration": 60,
+    "difficulty": 3,
+    "rating": 4.7,
+    "price": 340
+  },
+  {
+    "id": "Course_25",
+    "title": "SQL for Data Analysis",
+    "description": "Learn SQL for Data Analysis. Master SQL, Databases with hands-on projects and real-world examples. Suitable for Beginner level students.",
+    "level": "Beginner",
+    "category": "Data Science",
+    "skills": [
+      "SQL",
+      "Databases"
+    ],
+    "duration": 30,
+    "difficulty": 1,
+    "rating": 4.6,
+    "price": 350
+  },
+  {
+    "id": "Course_26",
+    "title": "Advanced SQL Queries",
+    "description": "Learn Advanced SQL Queries. Master SQL, Database with hands-on projects and real-world examples. Suitable for Intermediate level students.",
+    "level": "Intermediate",
+    "category": "Data Science",
+    "skills": [
+      "SQL",
+      "Database"
+    ],
+    "duration": 35,
+    "difficulty": 2,
+    "rating": 4.5,
+    "price": 360
+  },
+  {
+    "id": "Course_27",
+    "title": "Data Mining Techniques",
+    "description": "Learn Data Mining Techniques. Master Data Mining, Machine Learning with hands-on projects and real-world examples. Suitable for Advanced level students.",
+    "level": "Advanced",
+    "category": "Data Science",
+    "skills": [
+      "Data Mining",
+      "Machine Learning"
+    ],
+    "duration": 50,
+    "difficulty": 3,
+    "rating": 4.7,
+    "price": 370
+  },
+  {
+    "id": "Course_28",
+    "title": "Business Analytics",
+    "description": "Learn Business Analytics. Master Analytics, Business with hands-on projects and real-world examples. Suitable for Intermediate level students.",
+    "level": "Intermediate",
+    "category": "Data Science",
+    "skills": [
+      "Analytics",
+      "Business"
+    ],
+    "duration": 45,
+    "difficulty": 2,
+    "rating": 4.4,
+    "price": 380
+  },
+  {
+    "id": "Course_29",
+    "title": "Introduction to Data Science",
+    "description": "Learn Introduction to Data Science. Master Data Science, Python with hands-on projects and real-world examples. Suitable for Beginner level students.",
+    "level": "Beginner",
+    "category": "Data Science",
+    "skills": [
+      "Data Science",
+      "Python"
+    ],
+    "duration": 50,
+    "difficulty": 1,
+    "rating": 4.8,
+    "price": 390
+  },
+  {
+    "id": "Course_30",
+    "title": "Time Series Analysis",
+    "description": "Learn Time Series Analysis. Master Time Series, Statistics with hands-on projects and real-world examples. Suitable for Advanced level students.",
+    "level": "Advanced",
+    "category": "Data Science",
+    "skills": [
+      "Time Series",
+      "Statistics"
+    ],
+    "duration": 40,
+    "difficulty": 3,
+    "rating": 4.6,
+    "price": 400
+  },
+  {
+    "id": "Course_31",
+    "title": "Java Programming Fundamentals",
+    "description": "Learn Java Programming Fundamentals. Master Java, Programming with hands-on projects and real-world examples. Suitable for Beginner level students.",
+    "level": "Beginner",
+    "category": "Programming",
+    "skills": [
+      "Java",
+      "Programming"
+    ],
+    "duration": 45,
+    "difficulty": 1,
+    "rating": 4.5,
+    "price": 410
+  },
+  {
+    "id": "Course_32",
+    "title": "Advanced Java Programming",
+    "description": "Learn Advanced Java Programming. Master Java, OOP with hands-on projects and real-world examples. Suitable for Advanced level students.",
+    "level": "Advanced",
+    "category": "Programming",
+    "skills": [
+      "Java",
+      "OOP"
+    ],
+    "duration": 55,
+    "difficulty": 3,
+    "rating": 4.6,
+    "price": 420
+  },
+  {
+    "id": "Course_33",
+    "title": "C++ for Beginners",
+    "description": "Learn C++ for Beginners. Master C++, Programming with hands-on projects and real-world examples. Suitable for Beginner level students.",
+    "level": "Beginner",
+    "category": "Programming",
+    "skills": [
+      "C++",
+      "Programming"
+    ],
+    "duration": 40,
+    "difficulty": 1,
+    "rating": 4.4,
+    "price": 430
+  },
+  {
+    "id": "Course_34",
+    "title": "Object-Oriented Programming",
+    "description": "Learn Object-Oriented Programming. Master OOP, Programming with hands-on projects and real-world examples. Suitable for Intermediate level students.",
+    "level": "Intermediate",
+    "category": "Programming",
+    "skills": [
+      "OOP",
+      "Programming"
+    ],
+    "duration": 35,
+    "difficulty": 2,
+    "rating": 4.6,
+    "price": 440
+  },
+  {
+    "id": "Course_35",
+    "title": "Data Structures and Algorithms",
+    "description": "Learn Data Structures and Algorithms. Master Algorithms, Data Structures with hands-on projects and real-world examples. Suitable for Intermediate level students.",
+    "level": "Intermediate",
+    "category": "Programming",
+    "skills": [
+      "Algorithms",
+      "Data Structures"
+    ],
+    "duration": 60,
+    "difficulty": 2,
+    "rating": 4.8,
+    "price": 450
+  },
+  {
+    "id": "Course_36",
+    "title": "Design Patterns in Programming",
+    "description": "Learn Design Patterns in Programming. Master Design Patterns, OOP with hands-on projects and real-world examples. Suitable for Advanced level students.",
+    "level": "Advanced",
+    "category": "Programming",
+    "skills": [
+      "Design Patterns",
+      "OOP"
+    ],
+    "duration": 45,
+    "difficulty": 3,
+    "rating": 4.7,
+    "price": 460
+  },
+  {
+    "id": "Course_37",
+    "title": "Python for Automation",
+    "description": "Learn Python for Automation. Master Python, Automation with hands-on projects and real-world examples. Suitable for Intermediate level students.",
+    "level": "Intermediate",
+    "category": "Programming",
+    "skills": [
+      "Python",
+      "Automation"
+    ],
+    "duration": 30,
+    "difficulty": 2,
+    "rating": 4.5,
+    "price": 470
+  },
+  {
+    "id": "Course_38",
+    "title": "Git and Version Control",
+    "description": "Learn Git and Version Control. Master Git, DevOps with hands-on projects and real-world examples. Suitable for Beginner level students.",
+    "level": "Beginner",
+    "category": "Programming",
+    "skills": [
+      "Git",
+      "DevOps"
+    ],
+    "duration": 20,
+    "difficulty": 1,
+    "rating": 4.6,
+    "price": 480
+  },
+  {
+    "id": "Course_39",
+    "title": "Introduction to Programming",
+    "description": "Learn Introduction to Programming. Master Programming, Logic with hands-on projects and real-world examples. Suitable for Beginner level students.",
+    "level": "Beginner",
+    "category": "Programming",
+    "skills": [
+      "Programming",
+      "Logic"
+    ],
+    "duration": 40,
+    "difficulty": 1,
+    "rating": 4.7,
+    "price": 490
+  },
+  {
+    "id": "Course_40",
+    "title": "Functional Programming",
+    "description": "Learn Functional Programming. Master Functional, Programming with hands-on projects and real-world examples. Suitable for Advanced level students.",
+    "level": "Advanced",
+    "category": "Programming",
+    "skills": [
+      "Functional",
+      "Programming"
+    ],
+    "duration": 50,
+    "difficulty": 3,
+    "rating": 4.5,
+    "price": 500
+  },
+  {
+    "id": "Course_41",
+    "title": "Docker Fundamentals",
+    "description": "Learn Docker Fundamentals. Master Docker, Containers with hands-on projects and real-world examples. Suitable for Intermediate level students.",
+    "level": "Intermediate",
+    "category": "DevOps",
+    "skills": [
+      "Docker",
+      "Containers"
+    ],
+    "duration": 25,
+    "difficulty": 2,
+    "rating": 4.7,
+    "price": 510
+  },
+  {
+    "id": "Course_42",
+    "title": "Kubernetes Essentials",
+    "description": "Learn Kubernetes Essentials. Master Kubernetes, DevOps with hands-on projects and real-world examples. Suitable for Advanced level students.",
+    "level": "Advanced",
+    "category": "DevOps",
+    "skills": [
+      "Kubernetes",
+      "DevOps"
+    ],
+    "duration": 35,
+    "difficulty": 3,
+    "rating": 4.8,
+    "price": 520
+  },
+  {
+    "id": "Course_43",
+    "title": "CI/CD Pipeline Development",
+    "description": "Learn CI/CD Pipeline Development. Master CI/CD, Automation with hands-on projects and real-world examples. Suitable for Intermediate level students.",
+    "level": "Intermediate",
+    "category": "DevOps",
+    "skills": [
+      "CI/CD",
+      "Automation"
+    ],
+    "duration": 30,
+    "difficulty": 2,
+    "rating": 4.6,
+    "price": 530
+  },
+  {
+    "id": "Course_44",
+    "title": "AWS Cloud Computing",
+    "description": "Learn AWS Cloud Computing. Master AWS, Cloud with hands-on projects and real-world examples. Suitable for Intermediate level students.",
+    "level": "Intermediate",
+    "category": "DevOps",
+    "skills": [
+      "AWS",
+      "Cloud"
+    ],
+    "duration": 50,
+    "difficulty": 2,
+    "rating": 4.7,
+    "price": 540
+  },
+  {
+    "id": "Course_45",
+    "title": "Azure Cloud Platform",
+    "description": "Learn Azure Cloud Platform. Master Azure, Cloud with hands-on projects and real-world examples. Suitable for Intermediate level students.",
+    "level": "Intermediate",
+    "category": "DevOps",
+    "skills": [
+      "Azure",
+      "Cloud"
+    ],
+    "duration": 45,
+    "difficulty": 2,
+    "rating": 4.6,
+    "price": 550
+  },
+  {
+    "id": "Course_46",
+    "title": "Google Cloud Platform",
+    "description": "Learn Google Cloud Platform. Master GCP, Cloud with hands-on projects and real-world examples. Suitable for Intermediate level students.",
+    "level": "Intermediate",
+    "category": "DevOps",
+    "skills": [
+      "GCP",
+      "Cloud"
+    ],
+    "duration": 45,
+    "difficulty": 2,
+    "rating": 4.5,
+    "price": 560
+  },
+  {
+    "id": "Course_47",
+    "title": "Infrastructure as Code",
+    "description": "Learn Infrastructure as Code. Master IaC, Terraform with hands-on projects and real-world examples. Suitable for Advanced level students.",
+    "level": "Advanced",
+    "category": "DevOps",
+    "skills": [
+      "IaC",
+      "Terraform"
+    ],
+    "duration": 40,
+    "difficulty": 3,
+    "rating": 4.7,
+    "price": 570
+  },
+  {
+    "id": "Course_48",
+    "title": "Linux System Administration",
+    "description": "Learn Linux System Administration. Master Linux, System Admin with hands-on projects and real-world examples. Suitable for Intermediate level students.",
+    "level": "Intermediate",
+    "category": "DevOps",
+    "skills": [
+      "Linux",
+      "System Admin"
+    ],
+    "duration": 50,
+    "difficulty": 2,
+    "rating": 4.6,
+    "price": 580
+  },
+  {
+    "id": "Course_49",
+    "title": "Monitoring and Logging",
+    "description": "Learn Monitoring and Logging. Master Monitoring, DevOps with hands-on projects and real-world examples. Suitable for Advanced level students.",
+    "level": "Advanced",
+    "category": "DevOps",
+    "skills": [
+      "Monitoring",
+      "DevOps"
+    ],
+    "duration": 30,
+    "difficulty": 3,
+    "rating": 4.5,
+    "price": 590
+  },
+  {
+    "id": "Course_50",
+    "title": "DevOps Best Practices",
+    "description": "Learn DevOps Best Practices. Master DevOps, Best Practices with hands-on projects and real-world examples. Suitable for Intermediate level students.",
+    "level": "Intermediate",
+    "category": "DevOps",
+    "skills": [
+      "DevOps",
+      "Best Practices"
+    ],
+    "duration": 35,
+    "difficulty": 2,
+    "rating": 4.6,
+    "price": 100
+  },
+  {
+    "id": "Course_51",
+    "title": "Crash Course in Introduction to Python Programming",
+    "description": "Crash Course in guide to introduction to python programming. Learn Introduction to Python Programming. Master Python, Programming with hands-on projects and real-world examples. Suitable for Beginner level students.",
+    "level": "Beginner",
+    "category": "Programming",
+    "skills": [
+      "Python",
+      "Programming"
+    ],
+    "duration": 50,
+    "difficulty": 1,
+    "rating": 4.8,
+    "price": 160
+  },
+  {
+    "id": "Course_52",
+    "title": "Practical Advanced Python Programming",
+    "description": "Practical guide to advanced python programming. Learn Advanced Python Programming. Master Python, OOP with hands-on projects and real-world examples. Suitable for Advanced level students.",
+    "level": "Advanced",
+    "category": "Programming",
+    "skills": [
+      "Python",
+      "OOP"
+    ],
+    "duration": 70,
+    "difficulty": 3,
+    "rating": 4.7,
+    "price": 170
+  },
+  {
+    "id": "Course_53",
+    "title": "Complete Python for Data Science",
+    "description": "Complete guide to python for data science. Learn Python for Data Science. Master Python, Data Analysis with hands-on projects and real-world examples. Suitable for Intermediate level students.",
+    "level": "Intermediate",
+    "category": "Data Science",
+    "skills": [
+      "Python",
+      "Data Analysis"
+    ],
+    "duration": 53,
+    "difficulty": 2,
+    "rating": 4.6,
+    "price": 180
+  },
+  {
+    "id": "Course_54",
+    "title": "Crash Course in Machine Learning with Python",
+    "description": "Crash Course in guide to machine learning with python. Learn Machine Learning with Python. Master Machine Learning, Python with hands-on projects and real-world examples. Suitable for Intermediate level students.",
+    "level": "Intermediate",
+    "category": "AI/ML",
+    "skills": [
+      "Machine Learning",
+      "Python"
+    ],
+    "duration": 60,
+    "difficulty": 2,
+    "rating": 4.9,
+    "price": 190
+  },
+  {
+    "id": "Course_55",
+    "title": "Practical Deep Learning Fundamentals",
+    "description": "Practical guide to deep learning fundamentals. Learn Deep Learning Fundamentals. Master Deep Learning, Neural Networks with hands-on projects and real-world examples. Suitable for Advanced level students.",
+    "level": "Advanced",
+    "category": "AI/ML",
+    "skills": [
+      "Deep Learning",
+      "Neural Networks"
+    ],
+    "duration": 80,
+    "difficulty": 3,
+    "rating": 4.8,
+    "price": 200
+  },
+  {
+    "id": "Course_56",
+    "title": "Complete Computer Vision with Python",
+    "description": "Complete guide to computer vision with python. Learn Computer Vision with Python. Master Computer Vision, Python with hands-on projects and real-world examples. Suitable for Advanced level students.",
+    "level": "Advanced",
+    "category": "AI/ML",
+    "skills": [
+      "Computer Vision",
+      "Python"
+    ],
+    "duration": 75,
+    "difficulty": 3,
+    "rating": 4.7,
+    "price": 210
+  },
+  {
+    "id": "Course_57",
+    "title": "Crash Course in Natural Language Processing",
+    "description": "Crash Course in guide to natural language processing. Learn Natural Language Processing. Master NLP, Machine Learning with hands-on projects and real-world examples. Suitable for Advanced level students.",
+    "level": "Advanced",
+    "category": "AI/ML",
+    "skills": [
+      "NLP",
+      "Machine Learning"
+    ],
+    "duration": 70,
+    "difficulty": 3,
+    "rating": 4.6,
+    "price": 220
+  },
+  {
+    "id": "Course_58",
+    "title": "Practical Introduction to Artificial Intelligence",
+    "description": "Practical guide to introduction to artificial intelligence. Learn Introduction to Artificial Intelligence. Master AI, Machine Learning with hands-on projects and real-world examples. Suitable for Beginner level students.",
+    "level": "Beginner",
+    "category": "AI/ML",
+    "skills": [
+      "AI",
+      "Machine Learning"
+    ],
+    "duration": 55,
+    "difficulty": 1,
+    "rating": 4.5,
+    "price": 230
+  },
+  {
+    "id": "Course_59",
+    "title": "Complete Neural Networks from Scratch",
+    "description": "Complete guide to neural networks from scratch. Learn Neural Networks from Scratch. Master Neural Networks, Python with hands-on projects and real-world examples. Suitable for Advanced level students.",
+    "level": "Advanced",
+    "category": "AI/ML",
+    "skills": [
+      "Neural Networks",
+      "Python"
+    ],
+    "duration": 65,
+    "difficulty": 3,
+    "rating": 4.7,
+    "price": 240
+  },
+  {
+    "id": "Course_60",
+    "title": "Crash Course in Reinforcement Learning",
+    "description": "Crash Course in guide to reinforcement learning. Learn Reinforcement Learning. Master Reinforcement Learning, AI with hands-on projects and real-world examples. Suitable for Advanced level students.",
+    "level": "Advanced",
+    "category": "AI/ML",
+    "skills": [
+      "Reinforcement Learning",
+      "AI"
+    ],
+    "duration": 70,
+    "difficulty": 3,
+    "rating": 4.6,
+    "price": 250
+  },
+  {
+    "id": "Course_61",
+    "title": "Practical Web Development Bootcamp",
+    "description": "Practical guide to web development bootcamp. Learn Web Development Bootcamp. Master HTML, CSS, JavaScript with hands-on projects and real-world examples. Suitable for Beginner level students.",
+    "level": "Beginner",
+    "category": "Web Dev",
+    "skills": [
+      "HTML",
+      "CSS",
+      "JavaScript"
+    ],
+    "duration": 90,
+    "difficulty": 1,
+    "rating": 4.8,
+    "price": 260
+  },
+  {
+    "id": "Course_62",
+    "title": "Complete Frontend Development with React",
+    "description": "Complete guide to frontend development with react. Learn Frontend Development with React. Master React, JavaScript with hands-on projects and real-world examples. Suitable for Intermediate level students.",
+    "level": "Intermediate",
+    "category": "Web Dev",
+    "skills": [
+      "React",
+      "JavaScript"
+    ],
+    "duration": 60,
+    "difficulty": 2,
+    "rating": 4.7,
+    "price": 270
+  },
+  {
+    "id": "Course_63",
+    "title": "Crash Course in Backend Development with Node.js",
+    "description": "Crash Course in guide to backend development with node.js. Learn Backend Development with Node.js. Master Node.js, JavaScript with hands-on projects and real-world examples. Suitable for Intermediate level students.",
+    "level": "Intermediate",
+    "category": "Web Dev",
+    "skills": [
+      "Node.js",
+      "JavaScript"
+    ],
+    "duration": 65,
+    "difficulty": 2,
+    "rating": 4.6,
+    "price": 280
+  },
+  {
+    "id": "Course_64",
+    "title": "Practical Full Stack Web Development",
+    "description": "Practical guide to full stack web development. Learn Full Stack Web Development. Master React, Node.js with hands-on projects and real-world examples. Suitable for Advanced level students.",
+    "level": "Advanced",
+    "category": "Web Dev",
+    "skills": [
+      "React",
+      "Node.js"
+    ],
+    "duration": 110,
+    "difficulty": 3,
+    "rating": 4.9,
+    "price": 290
+  },
+  {
+    "id": "Course_65",
+    "title": "Complete JavaScript Essentials",
+    "description": "Complete guide to javascript essentials. Learn JavaScript Essentials. Master JavaScript, Programming with hands-on projects and real-world examples. Suitable for Beginner level students.",
+    "level": "Beginner",
+    "category": "Web Dev",
+    "skills": [
+      "JavaScript",
+      "Programming"
+    ],
+    "duration": 45,
+    "difficulty": 1,
+    "rating": 4.5,
+    "price": 300
+  },
+  {
+    "id": "Course_66",
+    "title": "Crash Course in HTML and CSS Fundamentals",
+    "description": "Crash Course in guide to html and css fundamentals. Learn HTML and CSS Fundamentals. Master HTML, CSS with hands-on projects and real-world examples. Suitable for Beginner level students.",
+    "level": "Beginner",
+    "category": "Web Dev",
+    "skills": [
+      "HTML",
+      "CSS"
+    ],
+    "duration": 40,
+    "difficulty": 1,
+    "rating": 4.4,
+    "price": 310
+  },
+  {
+    "id": "Course_67",
+    "title": "Practical Advanced CSS Techniques",
+    "description": "Practical guide to advanced css techniques. Learn Advanced CSS Techniques. Master CSS, Web Design with hands-on projects and real-world examples. Suitable for Intermediate level students.",
+    "level": "Intermediate",
+    "category": "Web Dev",
+    "skills": [
+      "CSS",
+      "Web Design"
+    ],
+    "duration": 50,
+    "difficulty": 2,
+    "rating": 4.5,
+    "price": 320
+  },
+  {
+    "id": "Course_68",
+    "title": "Complete React Native Mobile Development",
+    "description": "Complete guide to react native mobile development. Learn React Native Mobile Development. Master React, Mobile with hands-on projects and real-world examples. Suitable for Advanced level students.",
+    "level": "Advanced",
+    "category": "Web Dev",
+    "skills": [
+      "React",
+      "Mobile"
+    ],
+    "duration": 70,
+    "difficulty": 3,
+    "rating": 4.6,
+    "price": 330
+  },
+  {
+    "id": "Course_69",
+    "title": "Crash Course in Web Security Best Practices",
+    "description": "Crash Course in guide to web security best practices. Learn Web Security Best Practices. Master Security, Web with hands-on projects and real-world examples. Suitable for Advanced level students.",
+    "level": "Advanced",
+    "category": "Web Dev",
+    "skills": [
+      "Security",
+      "Web"
+    ],
+    "duration": 55,
+    "difficulty": 3,
+    "rating": 4.7,
+    "price": 340
+  },
+  {
+    "id": "Course_70",
+    "title": "Practical RESTful API Development",
+    "description": "Practical guide to restful api development. Learn RESTful API Development. Master API, Backend with hands-on projects and real-world examples. Suitable for Intermediate level students.",
+    "level": "Intermediate",
+    "category": "Web Dev",
+    "skills": [
+      "API",
+      "Backend"
+    ],
+    "duration": 50,
+    "difficulty": 2,
+    "rating": 4.6,
+    "price": 350
+  },
+  {
+    "id": "Course_71",
+    "title": "Complete Data Analysis with Python",
+    "description": "Complete guide to data analysis with python. Learn Data Analysis with Python. Master Data Analysis, Python with hands-on projects and real-world examples. Suitable for Beginner level students.",
+    "level": "Beginner",
+    "category": "Data Science",
+    "skills": [
+      "Data Analysis",
+      "Python"
+    ],
+    "duration": 55,
+    "difficulty": 1,
+    "rating": 4.8,
+    "price": 360
+  },
+  {
+    "id": "Course_72",
+    "title": "Crash Course in Data Visualization Masterclass",
+    "description": "Crash Course in guide to data visualization masterclass. Learn Data Visualization Masterclass. Master Data Visualization, Python with hands-on projects and real-world examples. Suitable for Intermediate level students.",
+    "level": "Intermediate",
+    "category": "Data Science",
+    "skills": [
+      "Data Visualization",
+      "Python"
+    ],
+    "duration": 45,
+    "difficulty": 2,
+    "rating": 4.6,
+    "price": 370
+  },
+  {
+    "id": "Course_73",
+    "title": "Practical Statistics for Data Science",
+    "description": "Practical guide to statistics for data science. Learn Statistics for Data Science. Master Statistics, Data Analysis with hands-on projects and real-world examples. Suitable for Beginner level students.",
+    "level": "Beginner",
+    "category": "Data Science",
+    "skills": [
+      "Statistics",
+      "Data Analysis"
+    ],
+    "duration": 50,
+    "difficulty": 1,
+    "rating": 4.5,
+    "price": 380
+  },
+  {
+    "id": "Course_74",
+    "title": "Complete Big Data with Hadoop",
+    "description": "Complete guide to big data with hadoop. Learn Big Data with Hadoop. Master Big Data, Hadoop with hands-on projects and real-world examples. Suitable for Advanced level students.",
+    "level": "Advanced",
+    "category": "Data Science",
+    "skills": [
+      "Big Data",
+      "Hadoop"
+    ],
+    "duration": 70,
+    "difficulty": 3,
+    "rating": 4.7,
+    "price": 390
+  },
+  {
+    "id": "Course_75",
+    "title": "Crash Course in SQL for Data Analysis",
+    "description": "Crash Course in guide to sql for data analysis. Learn SQL for Data Analysis. Master SQL, Databases with hands-on projects and real-world examples. Suitable for Beginner level students.",
+    "level": "Beginner",
+    "category": "Data Science",
+    "skills": [
+      "SQL",
+      "Databases"
+    ],
+    "duration": 40,
+    "difficulty": 1,
+    "rating": 4.6,
+    "price": 400
+  },
+  {
+    "id": "Course_76",
+    "title": "Practical Advanced SQL Queries",
+    "description": "Practical guide to advanced sql queries. Learn Advanced SQL Queries. Master SQL, Database with hands-on projects and real-world examples. Suitable for Intermediate level students.",
+    "level": "Intermediate",
+    "category": "Data Science",
+    "skills": [
+      "SQL",
+      "Database"
+    ],
+    "duration": 45,
+    "difficulty": 2,
+    "rating": 4.5,
+    "price": 410
+  },
+  {
+    "id": "Course_77",
+    "title": "Complete Data Mining Techniques",
+    "description": "Complete guide to data mining techniques. Learn Data Mining Techniques. Master Data Mining, Machine Learning with hands-on projects and real-world examples. Suitable for Advanced level students.",
+    "level": "Advanced",
+    "category": "Data Science",
+    "skills": [
+      "Data Mining",
+      "Machine Learning"
+    ],
+    "duration": 60,
+    "difficulty": 3,
+    "rating": 4.7,
+    "price": 420
+  },
+  {
+    "id": "Course_78",
+    "title": "Crash Course in Business Analytics",
+    "description": "Crash Course in guide to business analytics. Learn Business Analytics. Master Analytics, Business with hands-on projects and real-world examples. Suitable for Intermediate level students.",
+    "level": "Intermediate",
+    "category": "Data Science",
+    "skills": [
+      "Analytics",
+      "Business"
+    ],
+    "duration": 55,
+    "difficulty": 2,
+    "rating": 4.4,
+    "price": 430
+  },
+  {
+    "id": "Course_79",
+    "title": "Practical Introduction to Data Science",
+    "description": "Practical guide to introduction to data science. Learn Introduction to Data Science. Master Data Science, Python with hands-on projects and real-world examples. Suitable for Beginner level students.",
+    "level": "Beginner",
+    "category": "Data Science",
+    "skills": [
+      "Data Science",
+      "Python"
+    ],
+    "duration": 60,
+    "difficulty": 1,
+    "rating": 4.8,
+    "price": 440
+  },
+  {
+    "id": "Course_80",
+    "title": "Complete Time Series Analysis",
+    "description": "Complete guide to time series analysis. Learn Time Series Analysis. Master Time Series, Statistics with hands-on projects and real-world examples. Suitable for Advanced level students.",
+    "level": "Advanced",
+    "category": "Data Science",
+    "skills": [
+      "Time Series",
+      "Statistics"
+    ],
+    "duration": 50,
+    "difficulty": 3,
+    "rating": 4.6,
+    "price": 450
+  },
+  {
+    "id": "Course_81",
+    "title": "Crash Course in Java Programming Fundamentals",
+    "description": "Crash Course in guide to java programming fundamentals. Learn Java Programming Fundamentals. Master Java, Programming with hands-on projects and real-world examples. Suitable for Beginner level students.",
+    "level": "Beginner",
+    "category": "Programming",
+    "skills": [
+      "Java",
+      "Programming"
+    ],
+    "duration": 55,
+    "difficulty": 1,
+    "rating": 4.5,
+    "price": 460
+  },
+  {
+    "id": "Course_82",
+    "title": "Practical Advanced Java Programming",
+    "description": "Practical guide to advanced java programming. Learn Advanced Java Programming. Master Java, OOP with hands-on projects and real-world examples. Suitable for Advanced level students.",
+    "level": "Advanced",
+    "category": "Programming",
+    "skills": [
+      "Java",
+      "OOP"
+    ],
+    "duration": 65,
+    "difficulty": 3,
+    "rating": 4.6,
+    "price": 470
+  },
+  {
+    "id": "Course_83",
+    "title": "Complete C++ for Beginners",
+    "description": "Complete guide to c++ for beginners. Learn C++ for Beginners. Master C++, Programming with hands-on projects and real-world examples. Suitable for Beginner level students.",
+    "level": "Beginner",
+    "category": "Programming",
+    "skills": [
+      "C++",
+      "Programming"
+    ],
+    "duration": 50,
+    "difficulty": 1,
+    "rating": 4.4,
+    "price": 480
+  },
+  {
+    "id": "Course_84",
+    "title": "Crash Course in Object-Oriented Programming",
+    "description": "Crash Course in guide to object-oriented programming. Learn Object-Oriented Programming. Master OOP, Programming with hands-on projects and real-world examples. Suitable for Intermediate level students.",
+    "level": "Intermediate",
+    "category": "Programming",
+    "skills": [
+      "OOP",
+      "Programming"
+    ],
+    "duration": 45,
+    "difficulty": 2,
+    "rating": 4.6,
+    "price": 490
+  },
+  {
+    "id": "Course_85",
+    "title": "Practical Data Structures and Algorithms",
+    "description": "Practical guide to data structures and algorithms. Learn Data Structures and Algorithms. Master Algorithms, Data Structures with hands-on projects and real-world examples. Suitable for Intermediate level students.",
+    "level": "Intermediate",
+    "category": "Programming",
+    "skills": [
+      "Algorithms",
+      "Data Structures"
+    ],
+    "duration": 70,
+    "difficulty": 2,
+    "rating": 4.8,
+    "price": 500
+  },
+  {
+    "id": "Course_86",
+    "title": "Complete Design Patterns in Programming",
+    "description": "Complete guide to design patterns in programming. Learn Design Patterns in Programming. Master Design Patterns, OOP with hands-on projects and real-world examples. Suitable for Advanced level students.",
+    "level": "Advanced",
+    "category": "Programming",
+    "skills": [
+      "Design Patterns",
+      "OOP"
+    ],
+    "duration": 55,
+    "difficulty": 3,
+    "rating": 4.7,
+    "price": 510
+  },
+  {
+    "id": "Course_87",
+    "title": "Crash Course in Python for Automation",
+    "description": "Crash Course in guide to python for automation. Learn Python for Automation. Master Python, Automation with hands-on projects and real-world examples. Suitable for Intermediate level students.",
+    "level": "Intermediate",
+    "category": "Programming",
+    "skills": [
+      "Python",
+      "Automation"
+    ],
+    "duration": 40,
+    "difficulty": 2,
+    "rating": 4.5,
+    "price": 520
+  },
+  {
+    "id": "Course_88",
+    "title": "Practical Git and Version Control",
+    "description": "Practical guide to git and version control. Learn Git and Version Control. Master Git, DevOps with hands-on projects and real-world examples. Suitable for Beginner level students.",
+    "level": "Beginner",
+    "category": "Programming",
+    "skills": [
+      "Git",
+      "DevOps"
+    ],
+    "duration": 30,
+    "difficulty": 1,
+    "rating": 4.6,
+    "price": 530
+  },
+  {
+    "id": "Course_89",
+    "title": "Complete Introduction to Programming",
+    "description": "Complete guide to introduction to programming. Learn Introduction to Programming. Master Programming, Logic with hands-on projects and real-world examples. Suitable for Beginner level students.",
+    "level": "Beginner",
+    "category": "Programming",
+    "skills": [
+      "Programming",
+      "Logic"
+    ],
+    "duration": 50,
+    "difficulty": 1,
+    "rating": 4.7,
+    "price": 540
+  },
+  {
+    "id": "Course_90",
+    "title": "Crash Course in Functional Programming",
+    "description": "Crash Course in guide to functional programming. Learn Functional Programming. Master Functional, Programming with hands-on projects and real-world examples. Suitable for Advanced level students.",
+    "level": "Advanced",
+    "category": "Programming",
+    "skills": [
+      "Functional",
+      "Programming"
+    ],
+    "duration": 60,
+    "difficulty": 3,
+    "rating": 4.5,
+    "price": 550
+  },
+  {
+    "id": "Course_91",
+    "title": "Practical Docker Fundamentals",
+    "description": "Practical guide to docker fundamentals. Learn Docker Fundamentals. Master Docker, Containers with hands-on projects and real-world examples. Suitable for Intermediate level students.",
+    "level": "Intermediate",
+    "category": "DevOps",
+    "skills": [
+      "Docker",
+      "Containers"
+    ],
+    "duration": 35,
+    "difficulty": 2,
+    "rating": 4.7,
+    "price": 560
+  },
+  {
+    "id": "Course_92",
+    "title": "Complete Kubernetes Essentials",
+    "description": "Complete guide to kubernetes essentials. Learn Kubernetes Essentials. Master Kubernetes, DevOps with hands-on projects and real-world examples. Suitable for Advanced level students.",
+    "level": "Advanced",
+    "category": "DevOps",
+    "skills": [
+      "Kubernetes",
+      "DevOps"
+    ],
+    "duration": 45,
+    "difficulty": 3,
+    "rating": 4.8,
+    "price": 570
+  },
+  {
+    "id": "Course_93",
+    "title": "Crash Course in CI/CD Pipeline Development",
+    "description": "Crash Course in guide to ci/cd pipeline development. Learn CI/CD Pipeline Development. Master CI/CD, Automation with hands-on projects and real-world examples. Suitable for Intermediate level students.",
+    "level": "Intermediate",
+    "category": "DevOps",
+    "skills": [
+      "CI/CD",
+      "Automation"
+    ],
+    "duration": 40,
+    "difficulty": 2,
+    "rating": 4.6,
+    "price": 580
+  },
+  {
+    "id": "Course_94",
+    "title": "Practical AWS Cloud Computing",
+    "description": "Practical guide to aws cloud computing. Learn AWS Cloud Computing. Master AWS, Cloud with hands-on projects and real-world examples. Suitable for Intermediate level students.",
+    "level": "Intermediate",
+    "category": "DevOps",
+    "skills": [
+      "AWS",
+      "Cloud"
+    ],
+    "duration": 60,
+    "difficulty": 2,
+    "rating": 4.7,
+    "price": 590
+  },
+  {
+    "id": "Course_95",
+    "title": "Complete Azure Cloud Platform",
+    "description": "Complete guide to azure cloud platform. Learn Azure Cloud Platform. Master Azure, Cloud with hands-on projects and real-world examples. Suitable for Intermediate level students.",
+    "level": "Intermediate",
+    "category": "DevOps",
+    "skills": [
+      "Azure",
+      "Cloud"
+    ],
+    "duration": 55,
+    "difficulty": 2,
+    "rating": 4.6,
+    "price": 600
+  },
+  {
+    "id": "Course_96",
+    "title": "Crash Course in Google Cloud Platform",
+    "description": "Crash Course in guide to google cloud platform. Learn Google Cloud Platform. Master GCP, Cloud with hands-on projects and real-world examples. Suitable for Intermediate level students.",
+    "level": "Intermediate",
+    "category": "DevOps",
+    "skills": [
+      "GCP",
+      "Cloud"
+    ],
+    "duration": 55,
+    "difficulty": 2,
+    "rating": 4.5,
+    "price": 610
+  },
+  {
+    "id": "Course_97",
+    "title": "Practical Infrastructure as Code",
+    "description": "Practical guide to infrastructure as code. Learn Infrastructure as Code. Master IaC, Terraform with hands-on projects and real-world examples. Suitable for Advanced level students.",
+    "level": "Advanced",
+    "category": "DevOps",
+    "skills": [
+      "IaC",
+      "Terraform"
+    ],
+    "duration": 50,
+    "difficulty": 3,
+    "rating": 4.7,
+    "price": 620
+  },
+  {
+    "id": "Course_98",
+    "title": "Complete Linux System Administration",
+    "description": "Complete guide to linux system administration. Learn Linux System Administration. Master Linux, System Admin with hands-on projects and real-world examples. Suitable for Intermediate level students.",
+    "level": "Intermediate",
+    "category": "DevOps",
+    "skills": [
+      "Linux",
+      "System Admin"
+    ],
+    "duration": 60,
+    "difficulty": 2,
+    "rating": 4.6,
+    "price": 630
+  },
+  {
+    "id": "Course_99",
+    "title": "Crash Course in Monitoring and Logging",
+    "description": "Crash Course in guide to monitoring and logging. Learn Monitoring and Logging. Master Monitoring, DevOps with hands-on projects and real-world examples. Suitable for Advanced level students.",
+    "level": "Advanced",
+    "category": "DevOps",
+    "skills": [
+      "Monitoring",
+      "DevOps"
+    ],
+    "duration": 40,
+    "difficulty": 3,
+    "rating": 4.5,
+    "price": 640
+  },
+  {
+    "id": "Course_100",
+    "title": "Practical DevOps Best Practices",
+    "description": "Practical guide to devops best practices. Learn DevOps Best Practices. Master DevOps, Best Practices with hands-on projects and real-world examples. Suitable for Intermediate level students.",
+    "level": "Intermediate",
+    "category": "DevOps",
+    "skills": [
+      "DevOps",
+      "Best Practices"
+    ],
+    "duration": 45,
+    "difficulty": 2,
+    "rating": 4.6,
+    "price": 150
+  },
+  {
+    "id": "Course_101",
+    "title": "Complete Introduction to Python Programming",
+    "description": "Complete guide to introduction to python programming. Learn Introduction to Python Programming. Master Python, Programming with hands-on projects and real-world examples. Suitable for Beginner level students.",
+    "level": "Beginner",
+    "category": "Programming",
+    "skills": [
+      "Python",
+      "Programming"
+    ],
+    "duration": 50,
+    "difficulty": 1,
+    "rating": 4.8,
+    "price": 160
+  },
+  {
+    "id": "Course_102",
+    "title": "Crash Course in Advanced Python Programming",
+    "description": "Crash Course in guide to advanced python programming. Learn Advanced Python Programming. Master Python, OOP with hands-on projects and real-world examples. Suitable for Advanced level students.",
+    "level": "Advanced",
+    "category": "Programming",
+    "skills": [
+      "Python",
+      "OOP"
+    ],
+    "duration": 70,
+    "difficulty": 3,
+    "rating": 4.7,
+    "price": 170
+  },
+  {
+    "id": "Course_103",
+    "title": "Practical Python for Data Science",
+    "description": "Practical guide to python for data science. Learn Python for Data Science. Master Python, Data Analysis with hands-on projects and real-world examples. Suitable for Intermediate level students.",
+    "level": "Intermediate",
+    "category": "Data Science",
+    "skills": [
+      "Python",
+      "Data Analysis"
+    ],
+    "duration": 53,
+    "difficulty": 2,
+    "rating": 4.6,
+    "price": 180
+  },
+  {
+    "id": "Course_104",
+    "title": "Complete Machine Learning with Python",
+    "description": "Complete guide to machine learning with python. Learn Machine Learning with Python. Master Machine Learning, Python with hands-on projects and real-world examples. Suitable for Intermediate level students.",
+    "level": "Intermediate",
+    "category": "AI/ML",
+    "skills": [
+      "Machine Learning",
+      "Python"
+    ],
+    "duration": 60,
+    "difficulty": 2,
+    "rating": 4.9,
+    "price": 190
+  },
+  {
+    "id": "Course_105",
+    "title": "Crash Course in Deep Learning Fundamentals",
+    "description": "Crash Course in guide to deep learning fundamentals. Learn Deep Learning Fundamentals. Master Deep Learning, Neural Networks with hands-on projects and real-world examples. Suitable for Advanced level students.",
+    "level": "Advanced",
+    "category": "AI/ML",
+    "skills": [
+      "Deep Learning",
+      "Neural Networks"
+    ],
+    "duration": 80,
+    "difficulty": 3,
+    "rating": 4.8,
+    "price": 200
+  },
+  {
+    "id": "Course_106",
+    "title": "Practical Computer Vision with Python",
+    "description": "Practical guide to computer vision with python. Learn Computer Vision with Python. Master Computer Vision, Python with hands-on projects and real-world examples. Suitable for Advanced level students.",
+    "level": "Advanced",
+    "category": "AI/ML",
+    "skills": [
+      "Computer Vision",
+      "Python"
+    ],
+    "duration": 75,
+    "difficulty": 3,
+    "rating": 4.7,
+    "price": 210
+  },
+  {
+    "id": "Course_107",
+    "title": "Complete Natural Language Processing",
+    "description": "Complete guide to natural language processing. Learn Natural Language Processing. Master NLP, Machine Learning with hands-on projects and real-world examples. Suitable for Advanced level students.",
+    "level": "Advanced",
+    "category": "AI/ML",
+    "skills": [
+      "NLP",
+      "Machine Learning"
+    ],
+    "duration": 70,
+    "difficulty": 3,
+    "rating": 4.6,
+    "price": 220
+  },
+  {
+    "id": "Course_108",
+    "title": "Crash Course in Introduction to Artificial Intelligence",
+    "description": "Crash Course in guide to introduction to artificial intelligence. Learn Introduction to Artificial Intelligence. Master AI, Machine Learning with hands-on projects and real-world examples. Suitable for Beginner level students.",
+    "level": "Beginner",
+    "category": "AI/ML",
+    "skills": [
+      "AI",
+      "Machine Learning"
+    ],
+    "duration": 55,
+    "difficulty": 1,
+    "rating": 4.5,
+    "price": 230
+  },
+  {
+    "id": "Course_109",
+    "title": "Practical Neural Networks from Scratch",
+    "description": "Practical guide to neural networks from scratch. Learn Neural Networks from Scratch. Master Neural Networks, Python with hands-on projects and real-world examples. Suitable for Advanced level students.",
+    "level": "Advanced",
+    "category": "AI/ML",
+    "skills": [
+      "Neural Networks",
+      "Python"
+    ],
+    "duration": 65,
+    "difficulty": 3,
+    "rating": 4.7,
+    "price": 240
+  },
+  {
+    "id": "Course_110",
+    "title": "Complete Reinforcement Learning",
+    "description": "Complete guide to reinforcement learning. Learn Reinforcement Learning. Master Reinforcement Learning, AI with hands-on projects and real-world examples. Suitable for Advanced level students.",
+    "level": "Advanced",
+    "category": "AI/ML",
+    "skills": [
+      "Reinforcement Learning",
+      "AI"
+    ],
+    "duration": 70,
+    "difficulty": 3,
+    "rating": 4.6,
+    "price": 250
+  },
+  {
+    "id": "Course_111",
+    "title": "Crash Course in Web Development Bootcamp",
+    "description": "Crash Course in guide to web development bootcamp. Learn Web Development Bootcamp. Master HTML, CSS, JavaScript with hands-on projects and real-world examples. Suitable for Beginner level students.",
+    "level": "Beginner",
+    "category": "Web Dev",
+    "skills": [
+      "HTML",
+      "CSS",
+      "JavaScript"
+    ],
+    "duration": 90,
+    "difficulty": 1,
+    "rating": 4.8,
+    "price": 260
+  },
+  {
+    "id": "Course_112",
+    "title": "Practical Frontend Development with React",
+    "description": "Practical guide to frontend development with react. Learn Frontend Development with React. Master React, JavaScript with hands-on projects and real-world examples. Suitable for Intermediate level students.",
+    "level": "Intermediate",
+    "category": "Web Dev",
+    "skills": [
+      "React",
+      "JavaScript"
+    ],
+    "duration": 60,
+    "difficulty": 2,
+    "rating": 4.7,
+    "price": 270
+  },
+  {
+    "id": "Course_113",
+    "title": "Complete Backend Development with Node.js",
+    "description": "Complete guide to backend development with node.js. Learn Backend Development with Node.js. Master Node.js, JavaScript with hands-on projects and real-world examples. Suitable for Intermediate level students.",
+    "level": "Intermediate",
+    "category": "Web Dev",
+    "skills": [
+      "Node.js",
+      "JavaScript"
+    ],
+    "duration": 65,
+    "difficulty": 2,
+    "rating": 4.6,
+    "price": 280
+  },
+  {
+    "id": "Course_114",
+    "title": "Crash Course in Full Stack Web Development",
+    "description": "Crash Course in guide to full stack web development. Learn Full Stack Web Development. Master React, Node.js with hands-on projects and real-world examples. Suitable for Advanced level students.",
+    "level": "Advanced",
+    "category": "Web Dev",
+    "skills": [
+      "React",
+      "Node.js"
+    ],
+    "duration": 110,
+    "difficulty": 3,
+    "rating": 4.9,
+    "price": 290
+  },
+  {
+    "id": "Course_115",
+    "title": "Practical JavaScript Essentials",
+    "description": "Practical guide to javascript essentials. Learn JavaScript Essentials. Master JavaScript, Programming with hands-on projects and real-world examples. Suitable for Beginner level students.",
+    "level": "Beginner",
+    "category": "Web Dev",
+    "skills": [
+      "JavaScript",
+      "Programming"
+    ],
+    "duration": 45,
+    "difficulty": 1,
+    "rating": 4.5,
+    "price": 300
+  },
+  {
+    "id": "Course_116",
+    "title": "Complete HTML and CSS Fundamentals",
+    "description": "Complete guide to html and css fundamentals. Learn HTML and CSS Fundamentals. Master HTML, CSS with hands-on projects and real-world examples. Suitable for Beginner level students.",
+    "level": "Beginner",
+    "category": "Web Dev",
+    "skills": [
+      "HTML",
+      "CSS"
+    ],
+    "duration": 40,
+    "difficulty": 1,
+    "rating": 4.4,
+    "price": 310
+  },
+  {
+    "id": "Course_117",
+    "title": "Crash Course in Advanced CSS Techniques",
+    "description": "Crash Course in guide to advanced css techniques. Learn Advanced CSS Techniques. Master CSS, Web Design with hands-on projects and real-world examples. Suitable for Intermediate level students.",
+    "level": "Intermediate",
+    "category": "Web Dev",
+    "skills": [
+      "CSS",
+      "Web Design"
+    ],
+    "duration": 50,
+    "difficulty": 2,
+    "rating": 4.5,
+    "price": 320
+  },
+  {
+    "id": "Course_118",
+    "title": "Practical React Native Mobile Development",
+    "description": "Practical guide to react native mobile development. Learn React Native Mobile Development. Master React, Mobile with hands-on projects and real-world examples. Suitable for Advanced level students.",
+    "level": "Advanced",
+    "category": "Web Dev",
+    "skills": [
+      "React",
+      "Mobile"
+    ],
+    "duration": 70,
+    "difficulty": 3,
+    "rating": 4.6,
+    "price": 330
+  },
+  {
+    "id": "Course_119",
+    "title": "Complete Web Security Best Practices",
+    "description": "Complete guide to web security best practices. Learn Web Security Best Practices. Master Security, Web with hands-on projects and real-world examples. Suitable for Advanced level students.",
+    "level": "Advanced",
+    "category": "Web Dev",
+    "skills": [
+      "Security",
+      "Web"
+    ],
+    "duration": 55,
+    "difficulty": 3,
+    "rating": 4.7,
+    "price": 340
+  },
+  {
+    "id": "Course_120",
+    "title": "Crash Course in RESTful API Development",
+    "description": "Crash Course in guide to restful api development. Learn RESTful API Development. Master API, Backend with hands-on projects and real-world examples. Suitable for Intermediate level students.",
+    "level": "Intermediate",
+    "category": "Web Dev",
+    "skills": [
+      "API",
+      "Backend"
+    ],
+    "duration": 50,
+    "difficulty": 2,
+    "rating": 4.6,
+    "price": 350
+  }
+]

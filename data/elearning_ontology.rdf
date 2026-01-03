@@ -1,0 +1,643 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns="http://www.semanticweb.org/asus/ontologies/2025/11/untitled-ontology-11/"
+     xml:base="http://www.semanticweb.org/asus/ontologies/2025/11/untitled-ontology-11/"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     xmlns:ontology="http://www.elearning-platform.org/ontology#">
+    <owl:Ontology rdf:about="http://www.elearning-platform.org/ontology#"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Object Properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.elearning-platform.org/ontology#hasLevel -->
+
+    <owl:ObjectProperty rdf:about="http://www.elearning-platform.org/ontology#hasLevel">
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#FunctionalProperty"/>
+        <rdfs:domain rdf:resource="http://www.elearning-platform.org/ontology#Student"/>
+        <rdfs:range rdf:resource="http://www.elearning-platform.org/ontology#Level"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.elearning-platform.org/ontology#hasPrerequisite -->
+
+    <owl:ObjectProperty rdf:about="http://www.elearning-platform.org/ontology#hasPrerequisite">
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#TransitiveProperty"/>
+        <rdfs:domain rdf:resource="http://www.elearning-platform.org/ontology#Course"/>
+        <rdfs:range rdf:resource="http://www.elearning-platform.org/ontology#Course"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.elearning-platform.org/ontology#hasSkill -->
+
+    <owl:ObjectProperty rdf:about="http://www.elearning-platform.org/ontology#hasSkill">
+        <rdfs:domain rdf:resource="http://www.elearning-platform.org/ontology#Student"/>
+        <rdfs:range rdf:resource="http://www.elearning-platform.org/ontology#Skill"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.elearning-platform.org/ontology#helpsAchieve -->
+
+    <owl:ObjectProperty rdf:about="http://www.elearning-platform.org/ontology#helpsAchieve">
+        <rdfs:domain rdf:resource="http://www.elearning-platform.org/ontology#Course"/>
+        <rdfs:range rdf:resource="http://www.elearning-platform.org/ontology#LearningGoal"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.elearning-platform.org/ontology#lacksSkill -->
+
+    <owl:ObjectProperty rdf:about="http://www.elearning-platform.org/ontology#lacksSkill">
+        <rdfs:domain rdf:resource="http://www.elearning-platform.org/ontology#Student"/>
+        <rdfs:range rdf:resource="http://www.elearning-platform.org/ontology#Skill"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.elearning-platform.org/ontology#recommendedFor -->
+
+    <owl:ObjectProperty rdf:about="http://www.elearning-platform.org/ontology#recommendedFor">
+        <rdfs:domain rdf:resource="http://www.elearning-platform.org/ontology#Course"/>
+        <rdfs:range rdf:resource="http://www.elearning-platform.org/ontology#Student"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.elearning-platform.org/ontology#requiresSkill -->
+
+    <owl:ObjectProperty rdf:about="http://www.elearning-platform.org/ontology#requiresSkill">
+        <rdfs:domain rdf:resource="http://www.elearning-platform.org/ontology#Course"/>
+        <rdfs:range rdf:resource="http://www.elearning-platform.org/ontology#Skill"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.elearning-platform.org/ontology#suitableForLevel -->
+
+    <owl:ObjectProperty rdf:about="http://www.elearning-platform.org/ontology#suitableForLevel">
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#FunctionalProperty"/>
+        <rdfs:domain rdf:resource="http://www.elearning-platform.org/ontology#Course"/>
+        <rdfs:range rdf:resource="http://www.elearning-platform.org/ontology#Level"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.elearning-platform.org/ontology#targetsGoal -->
+
+    <owl:ObjectProperty rdf:about="http://www.elearning-platform.org/ontology#targetsGoal">
+        <rdfs:domain rdf:resource="http://www.elearning-platform.org/ontology#Student"/>
+        <rdfs:range rdf:resource="http://www.elearning-platform.org/ontology#LearningGoal"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.elearning-platform.org/ontology#teachesSkill -->
+
+    <owl:ObjectProperty rdf:about="http://www.elearning-platform.org/ontology#teachesSkill">
+        <rdfs:domain rdf:resource="http://www.elearning-platform.org/ontology#Course"/>
+        <rdfs:range rdf:resource="http://www.elearning-platform.org/ontology#Skill"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Data properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.elearning-platform.org/ontology#hasDescription -->
+
+    <owl:DatatypeProperty rdf:about="http://www.elearning-platform.org/ontology#hasDescription">
+        <rdfs:domain rdf:resource="http://www.elearning-platform.org/ontology#Course"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+        <rdfs:comment>Description</rdfs:comment>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.elearning-platform.org/ontology#hasDifficulty -->
+
+    <owl:DatatypeProperty rdf:about="http://www.elearning-platform.org/ontology#hasDifficulty">
+        <rdfs:domain rdf:resource="http://www.elearning-platform.org/ontology#Course"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#integer"/>
+        <rdfs:comment>1-5</rdfs:comment>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.elearning-platform.org/ontology#hasDuration -->
+
+    <owl:DatatypeProperty rdf:about="http://www.elearning-platform.org/ontology#hasDuration">
+        <rdfs:domain rdf:resource="http://www.elearning-platform.org/ontology#Course"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#integer"/>
+        <rdfs:comment>Durée en heures</rdfs:comment>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.elearning-platform.org/ontology#hasEnrollmentCount -->
+
+    <owl:DatatypeProperty rdf:about="http://www.elearning-platform.org/ontology#hasEnrollmentCount">
+        <rdfs:domain rdf:resource="http://www.elearning-platform.org/ontology#Course"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+        <rdfs:comment>Nombre d&apos;inscrits</rdfs:comment>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.elearning-platform.org/ontology#hasPrice -->
+
+    <owl:DatatypeProperty rdf:about="http://www.elearning-platform.org/ontology#hasPrice">
+        <rdfs:domain rdf:resource="http://www.elearning-platform.org/ontology#Course"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#decimal"/>
+        <rdfs:comment>Prix en dinars</rdfs:comment>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.elearning-platform.org/ontology#hasRating -->
+
+    <owl:DatatypeProperty rdf:about="http://www.elearning-platform.org/ontology#hasRating">
+        <rdfs:domain rdf:resource="http://www.elearning-platform.org/ontology#Course"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#decimal"/>
+        <rdfs:comment>0-5 étoiles</rdfs:comment>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.elearning-platform.org/ontology#hasTitle -->
+
+    <owl:DatatypeProperty rdf:about="http://www.elearning-platform.org/ontology#hasTitle">
+        <rdfs:domain rdf:resource="http://www.elearning-platform.org/ontology#Course"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+        <rdfs:comment>Titre du cours</rdfs:comment>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.elearning-platform.org/ontology#requiresMathLevel -->
+
+    <owl:DatatypeProperty rdf:about="http://www.elearning-platform.org/ontology#requiresMathLevel">
+        <rdfs:domain rdf:resource="http://www.elearning-platform.org/ontology#Course"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#integer"/>
+        <rdfs:comment>0-5</rdfs:comment>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Classes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.elearning-platform.org/ontology#AcademicGoal -->
+
+    <owl:Class rdf:about="http://www.elearning-platform.org/ontology#AcademicGoal">
+        <rdfs:subClassOf rdf:resource="http://www.elearning-platform.org/ontology#LearningGoal"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.elearning-platform.org/ontology#Advanced -->
+
+    <owl:Class rdf:about="http://www.elearning-platform.org/ontology#Advanced">
+        <rdfs:subClassOf rdf:resource="http://www.elearning-platform.org/ontology#Level"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.elearning-platform.org/ontology#AdvancedCourse -->
+
+    <owl:Class rdf:about="http://www.elearning-platform.org/ontology#AdvancedCourse">
+        <owl:equivalentClass>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="http://www.elearning-platform.org/ontology#Course"/>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://www.elearning-platform.org/ontology#suitableForLevel"/>
+                        <owl:someValuesFrom rdf:resource="http://www.elearning-platform.org/ontology#Advanced"/>
+                    </owl:Restriction>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://www.elearning-platform.org/ontology#requiresSkill"/>
+                        <owl:minQualifiedCardinality rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">3</owl:minQualifiedCardinality>
+                        <owl:onClass rdf:resource="http://www.elearning-platform.org/ontology#Skill"/>
+                    </owl:Restriction>
+                </owl:intersectionOf>
+            </owl:Class>
+        </owl:equivalentClass>
+        <rdfs:subClassOf rdf:resource="http://www.elearning-platform.org/ontology#Course"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.elearning-platform.org/ontology#AdvancedStudent -->
+
+    <owl:Class rdf:about="http://www.elearning-platform.org/ontology#AdvancedStudent">
+        <rdfs:subClassOf rdf:resource="http://www.elearning-platform.org/ontology#Student"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.elearning-platform.org/ontology#Beginner -->
+
+    <owl:Class rdf:about="http://www.elearning-platform.org/ontology#Beginner">
+        <rdfs:subClassOf rdf:resource="http://www.elearning-platform.org/ontology#Level"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.elearning-platform.org/ontology#BeginnerCourse -->
+
+    <owl:Class rdf:about="http://www.elearning-platform.org/ontology#BeginnerCourse">
+        <owl:equivalentClass>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="http://www.elearning-platform.org/ontology#Course"/>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://www.elearning-platform.org/ontology#suitableForLevel"/>
+                        <owl:someValuesFrom rdf:resource="http://www.elearning-platform.org/ontology#Beginner"/>
+                    </owl:Restriction>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://www.elearning-platform.org/ontology#requiresSkill"/>
+                        <owl:maxQualifiedCardinality rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">1</owl:maxQualifiedCardinality>
+                        <owl:onClass rdf:resource="http://www.elearning-platform.org/ontology#Skill"/>
+                    </owl:Restriction>
+                </owl:intersectionOf>
+            </owl:Class>
+        </owl:equivalentClass>
+        <rdfs:subClassOf rdf:resource="http://www.elearning-platform.org/ontology#Course"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.elearning-platform.org/ontology#BeginnerStudent -->
+
+    <owl:Class rdf:about="http://www.elearning-platform.org/ontology#BeginnerStudent">
+        <rdfs:subClassOf rdf:resource="http://www.elearning-platform.org/ontology#Student"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.elearning-platform.org/ontology#CareerGoal -->
+
+    <owl:Class rdf:about="http://www.elearning-platform.org/ontology#CareerGoal">
+        <rdfs:subClassOf rdf:resource="http://www.elearning-platform.org/ontology#LearningGoal"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.elearning-platform.org/ontology#Course -->
+
+    <owl:Class rdf:about="http://www.elearning-platform.org/ontology#Course"/>
+    
+
+
+    <!-- http://www.elearning-platform.org/ontology#DataScienceSkill -->
+
+    <owl:Class rdf:about="http://www.elearning-platform.org/ontology#DataScienceSkill">
+        <rdfs:subClassOf rdf:resource="http://www.elearning-platform.org/ontology#TechnicalSkill"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.elearning-platform.org/ontology#Intermediate -->
+
+    <owl:Class rdf:about="http://www.elearning-platform.org/ontology#Intermediate">
+        <rdfs:subClassOf rdf:resource="http://www.elearning-platform.org/ontology#Level"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.elearning-platform.org/ontology#IntermediateCourse -->
+
+    <owl:Class rdf:about="http://www.elearning-platform.org/ontology#IntermediateCourse">
+        <owl:equivalentClass>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="http://www.elearning-platform.org/ontology#Course"/>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://www.elearning-platform.org/ontology#suitableForLevel"/>
+                        <owl:someValuesFrom rdf:resource="http://www.elearning-platform.org/ontology#Intermediate"/>
+                    </owl:Restriction>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://www.elearning-platform.org/ontology#requiresSkill"/>
+                        <owl:minQualifiedCardinality rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">2</owl:minQualifiedCardinality>
+                        <owl:onClass rdf:resource="http://www.elearning-platform.org/ontology#Skill"/>
+                    </owl:Restriction>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://www.elearning-platform.org/ontology#requiresSkill"/>
+                        <owl:maxQualifiedCardinality rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">3</owl:maxQualifiedCardinality>
+                        <owl:onClass rdf:resource="http://www.elearning-platform.org/ontology#Skill"/>
+                    </owl:Restriction>
+                </owl:intersectionOf>
+            </owl:Class>
+        </owl:equivalentClass>
+        <rdfs:subClassOf rdf:resource="http://www.elearning-platform.org/ontology#Course"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.elearning-platform.org/ontology#IntermediateStudent -->
+
+    <owl:Class rdf:about="http://www.elearning-platform.org/ontology#IntermediateStudent">
+        <rdfs:subClassOf rdf:resource="http://www.elearning-platform.org/ontology#Student"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.elearning-platform.org/ontology#LearningGoal -->
+
+    <owl:Class rdf:about="http://www.elearning-platform.org/ontology#LearningGoal"/>
+    
+
+
+    <!-- http://www.elearning-platform.org/ontology#Level -->
+
+    <owl:Class rdf:about="http://www.elearning-platform.org/ontology#Level"/>
+    
+
+
+    <!-- http://www.elearning-platform.org/ontology#PersonalGoal -->
+
+    <owl:Class rdf:about="http://www.elearning-platform.org/ontology#PersonalGoal">
+        <rdfs:subClassOf rdf:resource="http://www.elearning-platform.org/ontology#LearningGoal"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.elearning-platform.org/ontology#ProgrammingSkill -->
+
+    <owl:Class rdf:about="http://www.elearning-platform.org/ontology#ProgrammingSkill">
+        <rdfs:subClassOf rdf:resource="http://www.elearning-platform.org/ontology#TechnicalSkill"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.elearning-platform.org/ontology#Skill -->
+
+    <owl:Class rdf:about="http://www.elearning-platform.org/ontology#Skill"/>
+    
+
+
+    <!-- http://www.elearning-platform.org/ontology#SoftSkill -->
+
+    <owl:Class rdf:about="http://www.elearning-platform.org/ontology#SoftSkill">
+        <rdfs:subClassOf rdf:resource="http://www.elearning-platform.org/ontology#Skill"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.elearning-platform.org/ontology#Student -->
+
+    <owl:Class rdf:about="http://www.elearning-platform.org/ontology#Student"/>
+    
+
+
+    <!-- http://www.elearning-platform.org/ontology#TechnicalSkill -->
+
+    <owl:Class rdf:about="http://www.elearning-platform.org/ontology#TechnicalSkill">
+        <rdfs:subClassOf rdf:resource="http://www.elearning-platform.org/ontology#Skill"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.elearning-platform.org/ontology#WebDevelopmentSkill -->
+
+    <owl:Class rdf:about="http://www.elearning-platform.org/ontology#WebDevelopmentSkill">
+        <rdfs:subClassOf rdf:resource="http://www.elearning-platform.org/ontology#TechnicalSkill"/>
+    </owl:Class>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Individuals
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.elearning-platform.org/ontology#Advanced_Deep_Learning -->
+
+    <owl:NamedIndividual rdf:about="http://www.elearning-platform.org/ontology#Advanced_Deep_Learning">
+        <rdf:type rdf:resource="http://www.elearning-platform.org/ontology#AdvancedCourse"/>
+        <ontology:hasPrerequisite rdf:resource="http://www.elearning-platform.org/ontology#ML_Without_Heavy_Math"/>
+        <ontology:requiresSkill rdf:resource="http://www.elearning-platform.org/ontology#Machine_Learning"/>
+        <ontology:requiresSkill rdf:resource="http://www.elearning-platform.org/ontology#Python_Programming"/>
+        <ontology:suitableForLevel rdf:resource="http://www.elearning-platform.org/ontology#Advanced_Level"/>
+        <ontology:teachesSkill rdf:resource="http://www.elearning-platform.org/ontology#Deep_Learning"/>
+        <ontology:hasDuration rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">80</ontology:hasDuration>
+        <ontology:hasTitle>Practical Deep Learning:</ontology:hasTitle>
+        <ontology:requiresMathLevel rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">5</ontology:requiresMathLevel>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.elearning-platform.org/ontology#Advanced_Level -->
+
+    <owl:NamedIndividual rdf:about="http://www.elearning-platform.org/ontology#Advanced_Level"/>
+    
+
+
+    <!-- http://www.elearning-platform.org/ontology#Alice_Beginner -->
+
+    <owl:NamedIndividual rdf:about="http://www.elearning-platform.org/ontology#Alice_Beginner">
+        <rdf:type rdf:resource="http://www.elearning-platform.org/ontology#Student"/>
+        <ontology:hasLevel rdf:resource="http://www.elearning-platform.org/ontology#Beginner_Level"/>
+        <ontology:targetsGoal rdf:resource="http://www.elearning-platform.org/ontology#Change_Career_To_Tech"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.elearning-platform.org/ontology#Become_Data_Scientist -->
+
+    <owl:NamedIndividual rdf:about="http://www.elearning-platform.org/ontology#Become_Data_Scientist"/>
+    
+
+
+    <!-- http://www.elearning-platform.org/ontology#Beginner_Level -->
+
+    <owl:NamedIndividual rdf:about="http://www.elearning-platform.org/ontology#Beginner_Level"/>
+    
+
+
+    <!-- http://www.elearning-platform.org/ontology#Bob_NomathML -->
+
+    <owl:NamedIndividual rdf:about="http://www.elearning-platform.org/ontology#Bob_NomathML">
+        <rdf:type rdf:resource="http://www.elearning-platform.org/ontology#Student"/>
+        <ontology:hasLevel rdf:resource="http://www.elearning-platform.org/ontology#Intermediate_Level"/>
+        <ontology:hasSkill rdf:resource="http://www.elearning-platform.org/ontology#Python_Programming"/>
+        <ontology:lacksSkill rdf:resource="http://www.elearning-platform.org/ontology#Linear_Algebra"/>
+        <ontology:targetsGoal rdf:resource="http://www.elearning-platform.org/ontology#Learn_AI"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.elearning-platform.org/ontology#Carol_Expert -->
+
+    <owl:NamedIndividual rdf:about="http://www.elearning-platform.org/ontology#Carol_Expert">
+        <rdf:type rdf:resource="http://www.elearning-platform.org/ontology#Student"/>
+        <ontology:hasLevel rdf:resource="http://www.elearning-platform.org/ontology#Advanced_Level"/>
+        <ontology:hasSkill rdf:resource="http://www.elearning-platform.org/ontology#Machine_Learning"/>
+        <ontology:hasSkill rdf:resource="http://www.elearning-platform.org/ontology#Python_Programming"/>
+        <ontology:hasSkill rdf:resource="http://www.elearning-platform.org/ontology#Statistics"/>
+        <ontology:targetsGoal rdf:resource="http://www.elearning-platform.org/ontology#Become_Data_Scientist"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.elearning-platform.org/ontology#Change_Career_To_Tech -->
+
+    <owl:NamedIndividual rdf:about="http://www.elearning-platform.org/ontology#Change_Career_To_Tech"/>
+    
+
+
+    <!-- http://www.elearning-platform.org/ontology#Communication -->
+
+    <owl:NamedIndividual rdf:about="http://www.elearning-platform.org/ontology#Communication"/>
+    
+
+
+    <!-- http://www.elearning-platform.org/ontology#Data_Analysis -->
+
+    <owl:NamedIndividual rdf:about="http://www.elearning-platform.org/ontology#Data_Analysis"/>
+    
+
+
+    <!-- http://www.elearning-platform.org/ontology#Database_Management -->
+
+    <owl:NamedIndividual rdf:about="http://www.elearning-platform.org/ontology#Database_Management"/>
+    
+
+
+    <!-- http://www.elearning-platform.org/ontology#Deep_Learning -->
+
+    <owl:NamedIndividual rdf:about="http://www.elearning-platform.org/ontology#Deep_Learning"/>
+    
+
+
+    <!-- http://www.elearning-platform.org/ontology#Intermediate_Level -->
+
+    <owl:NamedIndividual rdf:about="http://www.elearning-platform.org/ontology#Intermediate_Level"/>
+    
+
+
+    <!-- http://www.elearning-platform.org/ontology#Introduction_to_Python -->
+
+    <owl:NamedIndividual rdf:about="http://www.elearning-platform.org/ontology#Introduction_to_Python">
+        <rdf:type rdf:resource="http://www.elearning-platform.org/ontology#BeginnerCourse"/>
+        <ontology:helpsAchieve rdf:resource="http://www.elearning-platform.org/ontology#Change_Career_To_Tech"/>
+        <ontology:suitableForLevel rdf:resource="http://www.elearning-platform.org/ontology#Beginner_Level"/>
+        <ontology:teachesSkill rdf:resource="http://www.elearning-platform.org/ontology#Python_Programming"/>
+        <ontology:hasDifficulty rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">1</ontology:hasDifficulty>
+        <ontology:hasDuration rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">40</ontology:hasDuration>
+        <ontology:hasPrice rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">150.0</ontology:hasPrice>
+        <ontology:hasRating rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">4.5</ontology:hasRating>
+        <ontology:hasTitle>Introduction to Python Programming</ontology:hasTitle>
+        <ontology:requiresMathLevel rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">0</ontology:requiresMathLevel>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.elearning-platform.org/ontology#Learn_AI -->
+
+    <owl:NamedIndividual rdf:about="http://www.elearning-platform.org/ontology#Learn_AI"/>
+    
+
+
+    <!-- http://www.elearning-platform.org/ontology#Linear_Algebra -->
+
+    <owl:NamedIndividual rdf:about="http://www.elearning-platform.org/ontology#Linear_Algebra"/>
+    
+
+
+    <!-- http://www.elearning-platform.org/ontology#ML_Without_Heavy_Math -->
+
+    <owl:NamedIndividual rdf:about="http://www.elearning-platform.org/ontology#ML_Without_Heavy_Math">
+        <rdf:type rdf:resource="http://www.elearning-platform.org/ontology#IntermediateCourse"/>
+        <ontology:helpsAchieve rdf:resource="http://www.elearning-platform.org/ontology#Learn_AI"/>
+        <ontology:requiresSkill rdf:resource="http://www.elearning-platform.org/ontology#Python_Programming"/>
+        <ontology:suitableForLevel rdf:resource="http://www.elearning-platform.org/ontology#Intermediate_Level"/>
+        <ontology:teachesSkill rdf:resource="http://www.elearning-platform.org/ontology#Machine_Learning"/>
+        <ontology:hasDuration rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">50</ontology:hasDuration>
+        <ontology:hasRating rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">4.8</ontology:hasRating>
+        <ontology:hasTitle>Practical Machine Learning: No Math Required</ontology:hasTitle>
+        <ontology:requiresMathLevel rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">1</ontology:requiresMathLevel>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.elearning-platform.org/ontology#Machine_Learning -->
+
+    <owl:NamedIndividual rdf:about="http://www.elearning-platform.org/ontology#Machine_Learning"/>
+    
+
+
+    <!-- http://www.elearning-platform.org/ontology#Machine_Learning_Basics -->
+
+    <owl:NamedIndividual rdf:about="http://www.elearning-platform.org/ontology#Machine_Learning_Basics">
+        <rdf:type rdf:resource="http://www.elearning-platform.org/ontology#IntermediateCourse"/>
+        <ontology:helpsAchieve rdf:resource="http://www.elearning-platform.org/ontology#Become_Data_Scientist"/>
+        <ontology:requiresSkill rdf:resource="http://www.elearning-platform.org/ontology#Python_Programming"/>
+        <ontology:requiresSkill rdf:resource="http://www.elearning-platform.org/ontology#Statistics"/>
+        <ontology:suitableForLevel rdf:resource="http://www.elearning-platform.org/ontology#Intermediate_Level"/>
+        <ontology:teachesSkill rdf:resource="http://www.elearning-platform.org/ontology#Machine_Learning"/>
+        <ontology:hasDuration rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">60</ontology:hasDuration>
+        <ontology:hasRating rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">4.7</ontology:hasRating>
+        <ontology:hasTitle>Machine Learning for Beginners</ontology:hasTitle>
+        <ontology:requiresMathLevel rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">3</ontology:requiresMathLevel>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.elearning-platform.org/ontology#Problem_Solving -->
+
+    <owl:NamedIndividual rdf:about="http://www.elearning-platform.org/ontology#Problem_Solving"/>
+    
+
+
+    <!-- http://www.elearning-platform.org/ontology#Python_Programming -->
+
+    <owl:NamedIndividual rdf:about="http://www.elearning-platform.org/ontology#Python_Programming"/>
+    
+
+
+    <!-- http://www.elearning-platform.org/ontology#Statistics -->
+
+    <owl:NamedIndividual rdf:about="http://www.elearning-platform.org/ontology#Statistics"/>
+</rdf:RDF>
+
+
+
+<!-- Generated by the OWL API (version 4.5.29.2024-05-13T12:11:03Z) https://github.com/owlcs/owlapi -->
+
